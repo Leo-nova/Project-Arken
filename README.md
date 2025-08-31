@@ -50,7 +50,7 @@ Responsible, controllable Persona design is a key factor for AI’s safe and eff
 
 | Name | Positioning | Highlights |  
 |------|-------------|------------|  
-| 🔶**Cognito** | Foundational Generation Engine | The starting point, laying the foundation of Persona architecture (V1–V5 released). |  
+| 🧠**Cognito** | Foundational Generation Engine | The starting point, laying the foundation of Persona architecture (V1–V5 released). |  
 | 🛡️**Aegis** | Enterprise Governance Framework | For commercial applications — stable, compliant, and predictable (in active development). |  
 | ✨**Mira** | Creative & Interactive Framework | Focused on emotional resonance and highly personalized interactions (planned release). |  
 
