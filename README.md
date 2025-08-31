@@ -93,3 +93,5 @@ Frustrated by hallucinations, I focused on how to control models using **pure te
 
 ## 📜 License  
 This project is licensed under the [MIT License](./LICENSE).  
+
+💡 Psst... looking for the underground version? Check out [README-street.md](./underground/README-street.md)
