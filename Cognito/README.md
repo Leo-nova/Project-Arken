@@ -1,3 +1,6 @@
+<img width="600" height="600" alt="Gemini_Generated_Image_ipkj4eipkj4eipkj" src="https://github.com/user-attachments/assets/17ca7bfb-e0b3-4d6a-83cf-9d1900ec7014" />
+
+
 # Cognito Framework Version Library  
 
 Welcome to the core repository of the Cognito Framework!  
