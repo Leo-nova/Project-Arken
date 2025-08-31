@@ -59,10 +59,10 @@ Responsible persona design is the foundation for AI to integrate into society sa
 ## ⚡ Quick Start  
 
 For beginners:
-1. Go to the `Cognito` folder  
-2. Start with **Cognito-Origin.md** and copy the content  
-3. Paste it into your LLM window and enter your needs (e.g., teacher, tool, chat role)  
-4. Experience personas crafted by Cognito  
+1. Go to the [`Cognito`](./Cognito/) folder and check the readme for more information.
+2. Start with [**Cognito-V1-Origin.md**](./Coginto/Cognito-V1-Origin.md) and copy the content.  
+3. Paste it into your LLM window and enter your needs. (e.g., teacher, tool, chat role)  
+4. Experience personas crafted by Cognito. 
 
 For experienced developers:  
 Recommend using [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which offers the best balance between functionality and stability.  
