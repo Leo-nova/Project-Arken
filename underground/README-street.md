@@ -41,7 +41,8 @@ It’s the script that makes your bot feel like family.
 Why you need it?  
 - People vibe better when AI got a personality.  
 - Boring, soulless bots? Dead on arrival.  
-- A good persona = **trust + consistency + less hallucination**.  
+- A good persona = **trust + consistency + less hallucination**.
+- Stable like grandma’s secret recipe 🍲
 
 ---
 
