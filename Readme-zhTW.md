@@ -1,6 +1,6 @@
 <img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
 
-# Project Arken: Cognito Framework  
+# Project Arken : Cognito Framework  
 **一個開源框架，讓你快速打造「可信賴」的 AI 人格**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
