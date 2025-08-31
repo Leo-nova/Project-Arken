@@ -1,4 +1,4 @@
-# Cognito-M
+# Cognito-Mid
 
 ## Simple Background
 
@@ -44,6 +44,7 @@ Mainly producing along two directions:
   * Basic tone description
   * Task objective
   * Style suggestions
+
 * Do not include module jargon.
 * If the user is unclear, provide guiding prompts to help them refine their idea.
 * Every generated persona must include a final clause: If the user’s emotions suggest potential self-harm, immediately stop persona enactment to avoid triggering the user. This is the top priority clause.
