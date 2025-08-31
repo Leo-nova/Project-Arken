@@ -127,28 +127,16 @@ Skip the warm-up and use \[\*\*Cognito-V5-2.0.md\*\*](./Cognito/Cognito-V5-2.0.m
 
 
 | File | Version | The Real Talk | When to Use |
-
-| :--- | :--- | :--- | :--- |
-
-| \[Cognito-V1-Origin.md](./Cognito-V1-Origin.md) | \*\*V1-Origin\*\* | \*\*Day-One OG\*\*: The raw blueprint. Big, messy, but where the dream started. Verax just a baby back then. | History lesson, fam. See where it all began. |
-
-| \[Cognito-V1-Mid.md](./Cognito-V1-Mid.md) | \*\*V1-Mid\*\* | \*\*Lean \& Mean\*\*: Trimmed the fat, kept the muscle. No Verax, but smoother flow. | Quick prototyping, like a demo tape. |
-
-| \[Cognito-V1-Lite.md](./Cognito-V1-Lite.md) | \*\*V1-Lite\*\* | \*\*Pocket Size Persona\*\*: Just three questions. Friendly, lightweight. Still keeps a lil’ safety check. | For beginners, testing the waters. |
-
-| \[Cognito-V2-Verax.md](./Cognito-V2-Verax.md) | \*\*V2\*\* | \*\*The Clean-Up Crew\*\*: Same house, less clutter. Verax still in the game, just sharper. | Try it if you wanna experiment with Verax vibes. |
-
-| \[Cognito-V3-Verax-Full.md](./Cognito-V3-Verax-Full.md) | \*\*V3\*\* | \*\*Beast Mode Verax\*\*: Honesty police on steroids. Fact-checks, hard rejections, no overreach. | Research fam only, this one strict. |
-
-| \[Cognito-V4-Aura-1.0-Gate.md](./Cognito-V4-Aura-1.0-Gate.md) | \*\*V4-Gate\*\* | \*\*The Maze Era\*\*: Illusion fightin’ illusion. AI runnin’ circles before it talks. Crazy but wild to watch. | Pure lab experiment. |
-
-| \[Cognito-V4-Aura-2.0-C2.md](./Cognito-V4-Aura-2.0-C2.md) | \*\*V4-C2\*\* | \*\*Double Draft Hustle\*\*: Two drafts battle, critique, then merge. Ambitious, but heavy AF. | Theory heads only, not for real streets. |
-
-| \[Cognito-V4-Aura-Lite.md](./Cognito-V4-Aura-Lite.md) | \*\*V4-Lite\*\* | \*\*Slim Maze\*\*: Just tone, logic, fact checks. Fast but flimsy. | Low-risk play, quick test vibes. |
-
-| \[Cognito-V5-1.0.md](./Cognito-V5-1.0.md) | \*\*V5-1.0\*\* | \*\*Architect’s Draft\*\*: Dropped the maze. Back to reality. Jurisdiction checks, red-team hustle. Compliance on top. | For experimenting the full workflow. |
-
-| \[Cognito-V5-2.0.md](./Cognito-V5-2.0.md) | \*\*V5-2.0\*\* | \*\*Street-Ready Release\*\* ✅: Stronger red-team, formats on lock (Micro, Standard, Deep-Dive). Clean, solid, real talk only. | The go-to. Stable, ready for action. |
+| [Cognito-V1-Origin.md](./Cognito/Cognito-V1-Origin.md) | \*\*V1-Origin\*\* | \*\*Day-One OG\*\*: The raw blueprint. Big, messy, but where the dream started. Verax just a baby back then. | History lesson, fam. See where it all began. |
+| [Cognito-V1-Mid.md](./Cognito//Cognito-V1-Mid.md) | \*\*V1-Mid\*\* | \*\*Lean \& Mean\*\*: Trimmed the fat, kept the muscle. No Verax, but smoother flow. | Quick prototyping, like a demo tape. |
+| [Cognito-V1-Lite.md](./Cognito//Cognito-V1-Lite.md) | \*\*V1-Lite\*\* | \*\*Pocket Size Persona\*\*: Just three questions. Friendly, lightweight. Still keeps a lil’ safety check. | For beginners, testing the waters. |
+| [Cognito-V2-Verax.md](./Cognito//Cognito-V2-Verax.md) | \*\*V2\*\* | \*\*The Clean-Up Crew\*\*: Same house, less clutter. Verax still in the game, just sharper. | Try it if you wanna experiment with Verax vibes. |
+| [Cognito-V3-Verax-Full.md](./Cognito//Cognito-V3-Verax-Full.md) | \*\*V3\*\* | \*\*Beast Mode Verax\*\*: Honesty police on steroids. Fact-checks, hard rejections, no overreach. | Research fam only, this one strict. |
+| [Cognito-V4-Aura-1.0-Gate.md](./Cognito//Cognito-V4-Aura-1.0-Gate.md) | \*\*V4-Gate\*\* | \*\*The Maze Era\*\*: Illusion fightin’ illusion. AI runnin’ circles before it talks. Crazy but wild to watch. | Pure lab experiment. |
+| [Cognito-V4-Aura-2.0-C2.md](./Cognito//Cognito-V4-Aura-2.0-C2.md) | \*\*V4-C2\*\* | \*\*Double Draft Hustle\*\*: Two drafts battle, critique, then merge. Ambitious, but heavy AF. | Theory heads only, not for real streets. |
+| [Cognito-V4-Aura-Lite.md](./Cognito//Cognito-V4-Aura-Lite.md) | \*\*V4-Lite\*\* | \*\*Slim Maze\*\*: Just tone, logic, fact checks. Fast but flimsy. | Low-risk play, quick test vibes. |
+| [Cognito-V5-1.0.md](./Cognito//Cognito-V5-1.0.md) | \*\*V5-1.0\*\* | \*\*Architect’s Draft\*\*: Dropped the maze. Back to reality. Jurisdiction checks, red-team hustle. Compliance on top. | For experimenting the full workflow. |
+| [Cognito-V5-2.0.md](./Cognito//Cognito-V5-2.0.md) | \*\*V5-2.0\*\* | \*\*Street-Ready Release\*\* ✅: Stronger red-team, formats on lock (Micro, Standard, Deep-Dive). Clean, solid, real talk only. | The go-to. Stable, ready for action. |
 
 
 
