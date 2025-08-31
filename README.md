@@ -80,7 +80,7 @@ Recommend using [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which offe
 ---
 
 ## 👨‍💻 Author’s Note  
-I’m not an engineer — just someone who enjoys talking to LLMs.  
+I’m not an engineer — just someone who enjoys chating with LLMs.  
 Having struggled with hallucinations, I focused on researching how to control models **purely through text**, so that even people without external tools can use AI safely and reliably.  
 
 ---
