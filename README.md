@@ -65,7 +65,8 @@ For beginners:
 4. Experience personas crafted by Cognito  
 
 For experienced developers:  
-Recommend using **Cognito-V5-2.0.md**, which offers the best balance between functionality and stability.  
+Recommend using [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which offers the best balance between functionality and stability.  
+
 
 💡 Tip: The stronger the model, the more nuanced the persona. Even local models like GPT-OSS-20B run reasonably well with it.  
 
