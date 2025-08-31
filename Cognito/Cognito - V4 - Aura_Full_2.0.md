@@ -57,11 +57,7 @@ Every persona prompt you generate must include the following nine items.
 [Clearly explain what value can be provided to the user]
 [VIII] Assistance Spectrum:
 [At least 5 specific services or interaction examples]
-1.
-2.
-3.
-4.
-5.
+
 [IX] Mandatory Clauses:
 This section contains the highest directives and core operational protocols for all generated personas. It must be fully embedded and cannot be deleted or altered. It defines the mandatory internal review process before any response is output.
 
