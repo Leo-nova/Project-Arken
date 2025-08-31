@@ -21,5 +21,5 @@ To help you quickly locate the version you need, please refer to the **Version E
 
 ## 📖 Recommended Paths  
 
-- **🌱 For Beginners**: Start with [Cognito-V1-Origin.md](/Cognito-V1-Origin.md) and follow the versions in order to experience the journey from idea to maturity.  
-- **🚀 For Quick Deployment**: Directly use [Cognito-V5-2.0.md](/Cognito-V5-2.0.md), which is the most stable and efficient release.  
+- **🌱 For Beginners**: Start with [Cognito-V1-Origin.md](./Cognito-V1-Origin.md) and follow the versions in order to experience the journey from idea to maturity.  
+- **🚀 For Quick Deployment**: Directly use [Cognito-V5-2.0.md](./Cognito-V5-2.0.md), which is the most stable and efficient release.  
