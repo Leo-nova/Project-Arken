@@ -64,7 +64,7 @@ For beginners:
 3. Paste it into your LLM window and enter your needs. (e.g., teacher, tool, chat role)  
 4. Experience personas crafted by Cognito. 
 
-For experienced developers:  
+For experienced developers or user:  
 Recommend using [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which offers the best balance between functionality and stability.  
 
 
