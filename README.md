@@ -80,7 +80,7 @@ For experienced developers or power users:
 
 ## 👨‍💻 Author’s Note  
 I am not an engineer — just an ordinary person who loves conversing with LLMs.  
-Frustrated by hallucinations, I focused on how to control models using **pure text**, so that even without external tools, anyone can use AI safely and reliably.  
+Frustrated by hallucinations, then focused on how to control models using **pure text**, so that even without external tools, anyone can use AI safely and reliably.  
 
 ---
 
