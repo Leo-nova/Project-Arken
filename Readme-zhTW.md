@@ -58,14 +58,14 @@ AI 已是社會基礎設施。Persona 則是定義了人機關係的性質，把
 ## ⚡ 快速開始  
 
 For 初學者
-1. 前往 `Cognito` 文件夾  
-2. 建議從 **Cognito-Origin.md** 開始，複製內容  
+1. 前往 [`Cognito`](./Cognito/) 文件夾  
+2. 建議從 [**Cognito-V1-Origin.md**](./Coginto/Cognito-V1-Origin.md) 開始，複製內容  
 3. 貼到你的 LLM 視窗並輸入需求 e.g.各類型的老師、工具、聊天角色  
 4. 體驗 Cognito 打造的人格  
 
-For 有經驗的開發者
+For 有經驗的開發者 or 使用者
 
-推薦直接使用 Cognito - V5-Lite.md。它在功能與穩定性上取得了最佳的平衡。
+推薦直接使用 [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md)，它在功能與穩定性上取得了最佳的平衡。
 
 💡 提示：模型越強大，生成的人格越細膩，實測本地端 GPT-OSS-20B 也能不錯的運作。  
 
