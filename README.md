@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Introduction  
-Large Language Models (LLMs) can generate content — but **content ≠ trust**.  
+Large Language Models (LLMs) can generate content — but **content ≠ truth**.  
 The **Cognito Framework** provides a simple, fast, and scalable way for developers and creators to design AI personas that are more stable, reliable, and trustworthy.  
 
 Core principles:  
