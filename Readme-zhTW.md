@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
+<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
 
 # Project Arken: Cognito Framework  
 **一個開源框架，讓你快速打造「可信賴」的 AI 人格**  
@@ -20,7 +20,7 @@
 
 ## 🤔 AI Persona？WHAT？  
 
-### Persona 是什麼？ 為什麼OpenAI、Google、Anthropic都在用？
+### Persona 是什麼？ 為什麼OpenAI、Google、Anthropic都重視？
 AI Persona 是為人工智慧系統設計的一套 **涵蓋性格、語氣、知識與行為模式** 的身份框架。  
 它不是表層的風格裝飾，而是 AI 與世界互動的「作業系統介面」。  
 
@@ -30,7 +30,7 @@ AI Persona 是為人工智慧系統設計的一套 **涵蓋性格、語氣、知
 - **對話歷史**：賦予互動的記憶與個人化能力  
 
 ### 為什麼需要 Persona？  
-因為人類本能會為互動對象賦予人格，AI也不例外。  
+因為人類會本能的為互動中的AI賦予人格，進行情感投射。  
 若缺乏設計，AI 回應將顯得 **泛化、缺乏吸引力**，使用者很快失去興趣。  
 精心設計的 Persona 能確保互動的 **一致性、可預測性與信任感**，在商業競爭中也更具優勢。  
 
