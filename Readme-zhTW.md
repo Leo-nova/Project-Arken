@@ -4,10 +4,13 @@
 **一個開源框架，讓你快速打造「可信賴」的 AI 人格**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
-本專案的原始語言為 **繁體中文**。  
-英文版本為對外翻譯，若有細節差異，以中文版本為準。
+
 ---
 
+本專案的原始語言為 **繁體中文**。  
+英文版本為對外翻譯，若有細節差異，請以中文版本為準。
+
+---
 ## 🚀 專案簡介  
 大型語言模型（LLM）會生成內容，但「內容」不等於「可信」。  
 **Cognito Framework** 提供一個簡單、快速、可擴展的方式，幫助開發者與創作者打造更穩定、值得信賴的 AI 人格。  
