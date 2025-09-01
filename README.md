@@ -23,7 +23,7 @@ Core principles:
 
 ### What is a Persona? Why do OpenAI, Google, and Anthropic care so much?  
 An AI Persona is a structured identity that defines an AI system’s **personality, tone, knowledge, and behavior patterns**.  
-It’s not “token garbage for fun” — it’s the **script** for how AI interacts with you.  
+It’s not a pile of throwaway tokens — it’s the script that guides how the AI interacts with you.
 
 Three key elements:  
 - **Knowledge Base**: Provides depth and accuracy of content  
