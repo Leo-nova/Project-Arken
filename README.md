@@ -15,7 +15,10 @@ Core principles:
 - Make prompt engineering accessible to everyone  
 - Keep AI on-topic in long conversations and reduce hallucinations  
 - Allow fast persona switching across business and creative scenarios  
-- Unlock the real efficiency of AI Agents  
+- Unlock the real efficiency of AI Agents
+
+🌏 Looking for the **original Chinese docs**?  
+Check out [`Cognito-zhTW`](./Cognito-zhTW) — the birthplace of the framework.
 
 ---
 
@@ -23,7 +26,7 @@ Core principles:
 
 ### What is a Persona? Why do OpenAI, Google, and Anthropic care so much?  
 An AI Persona is a structured identity that defines an AI system’s **personality, tone, knowledge, and behavior patterns**.  
-It’s not “token garbage for fun” — it’s the **script** for how AI interacts with you.  
+It’s not a pile of throwaway tokens — it’s the script that guides how the AI interacts with you.
 
 Three key elements:  
 - **Knowledge Base**: Provides depth and accuracy of content  
