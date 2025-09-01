@@ -15,8 +15,8 @@ The **Cognito Framework** provides a simple, fast, and scalable way for develope
 Core principles:  
 - Make prompt engineering accessible to everyone  
 - Keep AI on-topic in long conversations and reduce hallucinations  
-- Allow fast persona switching across business and creative scenarios  
-- Unlock the real efficiency of AI Agents
+- Allow quick deployment of the right Persona across different scenarios, serving both business and creative needs
+- Help AI Agents perform with the efficiency they’re meant to deliver
 
 🌏 Looking for the **original Chinese docs**?  
 Check out [`Cognito-zhTW`](./Cognito-zhTW) — the birthplace of the framework.
