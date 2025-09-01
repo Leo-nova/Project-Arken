@@ -95,7 +95,7 @@ MIT, homie. Do whatever — just give props.
 
 ---
 
-💀 yoo... word on the street is, there’s a [back-alley](./back-alley/) full of broken, cursed personas.  
+yoo... word on the street is, there’s a [back-alley](./back-alley/) full of broken, cursed personas.  
 Not safe, not stable — but damn, they fun.
 
 
