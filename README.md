@@ -18,7 +18,7 @@ Core principles:
 - Unlock the real efficiency of AI Agents
 
 🌏 Looking for the **original Chinese docs**?  
-Check out [`Cognito-zhTW/`](./Cognito-zhTW/) — the birthplace of the framework.
+Check out [`Cognito-zhTW`](./Cognito-zhTW) — the birthplace of the framework.
 
 ---
 
