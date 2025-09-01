@@ -80,6 +80,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](../Cognito/Cognito-V5-2.0.md) �
 - Flexible as hell.  
 - Fast to set up.  
 - Keeps your AI from talking nonsense when convos go long.  
+- Tell the Cognito you don't need Verax or Aura for fun(?).
 
 ---
 
@@ -91,6 +92,8 @@ So I built this, text-only, no fancy toys — so anyone can keep it safe and kee
 
 ## 📜 License  
 MIT, homie. Do whatever — just give props.  
+
+---
 
 💀 yoo... word on the street is, there’s a [back-alley](./back-alley/) full of broken, cursed personas.  
 Not safe, not stable — but damn, they fun.
