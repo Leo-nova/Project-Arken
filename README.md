@@ -63,7 +63,7 @@ Responsible, controllable Persona design is a key factor for AI’s safe and eff
 
 For beginners:  
 1. Go to the [`Cognito`](./Cognito/) folder  
-2. Start with [**Cognito-V1-Origin.md**](./Coginto/Cognito-V1-Origin.md) and copy the content  
+2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content  
 3. Paste it into your LLM window and specify your needs (e.g., teacher, tool, chat companion)  
 4. Experience the Persona built by Cognito  
 
