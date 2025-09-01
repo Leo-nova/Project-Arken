@@ -95,6 +95,6 @@ Frustrated by hallucinations, then focused on how to control models using **pure
 ---
 
 ## 📜 License  
-This project is licensed under the [MIT License](./LICENSE).  
+This project is licensed under the [MIT License](./LICENSE-NOTICE.md).  
 
 💡 Psst... looking for the underground version? Check out [README-street.md](./underground/README-street.md)
