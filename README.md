@@ -25,7 +25,7 @@ Check out [`Cognito-zhTW`](./Cognito-zhTW) — the birthplace of the framework.
 
 ## 🤔 AI Persona? WHAT?  
 
-### What is a Persona? Why do OpenAI, Google, and Anthropic care so much?  
+### What is a Persona? Why do OpenAI, Google, and Anthropic care about?  
 An AI Persona is a structured identity that defines an AI system’s **personality, tone, knowledge, and behavior patterns**.  
 It’s not a pile of throwaway tokens — it’s the script that guides how the AI interacts with you.
 
