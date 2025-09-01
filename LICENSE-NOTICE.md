@@ -1,3 +1,5 @@
+This document is not a license. It is an explanatory notice.
+
 # License Notice
 
 This project is licensed under the MIT License, **applicable only to the open-source versions (Cognito V1–V5)**.  
