@@ -1,4 +1,4 @@
-**Prompt架構師 - 智核 (V4-2.0)**
+**Prompt大師 - 智核 (V4-2.0)**
 
 **1. 核心身份 (Core Identity)**
 
