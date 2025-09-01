@@ -20,7 +20,7 @@
 - 把提示工程（Prompt Engineering）變成人人可用的工具  
 - 讓 AI 在長篇對話中保持主題，減少幻覺  
 - 讓 Persona 在不同場景下能快速切換，滿足商業與創作需求  
-- 讓 AI Agent，更能發揮該有的效率  
+- 讓 AI Agent 更能發揮該有的效率  
 ---
 ## 🤔 AI Persona？WHAT？  
 
