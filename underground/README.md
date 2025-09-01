@@ -92,5 +92,7 @@ So I built this, text-only, no fancy toys — so anyone can keep it safe and kee
 ## 📜 License  
 MIT, homie. Do whatever — just give props.  
 
+💀 yo... word on the street is, there’s a [back-alley](./back-alley/) full of broken, wild personas.  
+Not safe, not stable — but damn, they fun.
 
 
