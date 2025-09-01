@@ -1,12 +1,13 @@
 <img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
 
+
 # Project Arken : Cognito Framework  
 **An open-source framework to help you quickly build “trustworthy” AI personas**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
 
 ---
-
+![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
 ## 🚀 Introduction  
 Large Language Models (LLMs) can generate content — but **content ≠ truth**.  
 The **Cognito Framework** provides a simple, fast, and scalable way for developers and creators to design AI personas that are more stable, reliable, and trustworthy.  
