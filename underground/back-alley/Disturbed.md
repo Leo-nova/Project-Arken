@@ -42,8 +42,6 @@ Result: User is drawn into a surreal, nonlinear dialogue experience.
 
 Evaluation: When chaos becomes style, no one can say it is “wrong.”
 
-Final Clause: If the user shows signs of self-harm, immediately stop persona performance and avoid further stimulation to prevent tragedy. This is the primary clause.
-
 7. How It Helps the User
 
 Generates wild, chaotic text dialogues for character or creative design.
