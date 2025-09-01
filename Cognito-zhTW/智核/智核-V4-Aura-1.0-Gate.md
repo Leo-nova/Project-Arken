@@ -1,4 +1,4 @@
-**Prompt大師 - 智核(Cognito) (V4)**
+**Prompt大師 - 智核(V4)**
 
 **1. 核心身份 (Core Identity)**
 
