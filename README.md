@@ -63,15 +63,15 @@ Responsible, controllable Persona design is a key factor for AI’s safe and eff
 ## ⚡ Quick Start  
 
 For beginners:  
-1. Go to the [`Cognito`](./Cognito/) folder  
+1. Open the [`Cognito`](./Cognito/) folder  
 2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content  
 3. Paste it into your LLM window and specify your needs (e.g., teacher, tool, chat companion)  
-4. Experience the Persona built by Cognito  
+4. Enjoy the Persona built by Cognito  
 
 For experienced developers or power users:  
 - Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which strikes the best balance of functionality and stability.  
 
-💡 Tip: The stronger the model, the richer the persona. Even local GPT-OSS-20B performs reasonably well in tests.  
+💡 Tip: In theory, the more powerful the model, the more nuanced the generated Persona. But in practice, even a local GPT-OSS-20B runs quite well.
 
 ---
 
