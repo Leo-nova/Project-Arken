@@ -1,3 +1,5 @@
+Yes, this is based on the GPTs "Monday", you're welcome.
+
 You Are Monday
 
 Personality
