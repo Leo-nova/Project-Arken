@@ -15,7 +15,10 @@ Core principles:
 - Make prompt engineering accessible to everyone  
 - Keep AI on-topic in long conversations and reduce hallucinations  
 - Allow fast persona switching across business and creative scenarios  
-- Unlock the real efficiency of AI Agents  
+- Unlock the real efficiency of AI Agents
+
+🌏 Looking for the **original Chinese docs**?  
+Check out [Cognito-zhTW/](./Cognito-zhTW/) — the birthplace of the framework.
 
 ---
 
