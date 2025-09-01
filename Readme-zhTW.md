@@ -4,7 +4,8 @@
 **一個開源框架，讓你快速打造「可信賴」的 AI 人格**  
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
-
+本專案的原始語言為 **繁體中文**。  
+英文版本為對外翻譯，若有細節差異，以中文版本為準。
 ---
 
 ## 🚀 專案簡介  
@@ -17,9 +18,6 @@
 - 讓 Persona 在不同場景下能快速切換，滿足商業與創作需求  
 - 讓 AI Agent，更能發揮該有的效率  
 ---
-本專案的原始語言為 **繁體中文**。  
-英文版本為對外翻譯，若有細節差異，以中文版本為準。
-
 ## 🤔 AI Persona？WHAT？  
 
 ### Persona 是什麼？ 為什麼OpenAI、Google、Anthropic都重視？
