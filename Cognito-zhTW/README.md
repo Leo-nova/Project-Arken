@@ -61,7 +61,7 @@ AI 已是社會基礎設施。Persona 則是定義了人類與AI關係的性質�
 ## ⚡ 快速開始  
 
 For 初學者
-1. 前往 [`Cognito`](./Cognito-zhtw) 文件夾  
+1. 前往 [`Cognito`](./Cognito) 文件夾  
 2. 建議從 [**智核-V1-創始版.md**](./Cognito/智核-V1-創始版.md) 開始，複製內容  
 3. 貼到你的 LLM 視窗並輸入需求 e.g.各類型的老師、工具、聊天角色  
 4. 體驗 Cognito 打造的人格  
