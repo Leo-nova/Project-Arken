@@ -71,7 +71,9 @@ For beginners:
 For experienced developers or power users:  
 - Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which strikes the best balance of functionality and stability.  
 
-💡 Tip: In theory, the more powerful the model, the more nuanced the generated Persona. But in practice, even a local GPT-OSS-20B runs quite well.
+💡 Tip:  
+In theory, the more powerful the model, the more nuanced the generated Persona.  
+But in practice, even a local GPT-OSS-20B runs quite well.
 
 ---
 
