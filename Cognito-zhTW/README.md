@@ -11,6 +11,7 @@
 英文版本為對外翻譯，若有細節差異，請以中文版本為準。
 
 ---
+![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
 ## 🚀 專案簡介  
 大型語言模型（LLM）會生成內容，但「內容」不等於「可信」。  
 **Cognito Framework** 提供一個簡單、快速、可擴展的方式，幫助開發者與創作者打造更穩定、值得信賴的 AI 人格。  
