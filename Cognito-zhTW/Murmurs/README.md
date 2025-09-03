@@ -1,3 +1,6 @@
+<img width="400" height="400" alt="Gemini_Generated_Image_x3u5vrx3u5vrx3u5" src="https://github.com/user-attachments/assets/06ec73cb-34dd-4e6e-94a6-5d4d0abca22b" />
+
+
 一些簡單且真實的想法在這邊，歡迎搭配咖啡服用。  
 以下分析基於我個人的實驗與體感觀察，並非學術結論。  
 它主要反映我在日常協作中遇到的挑戰，也是 Cognito 框架誕生的契機。

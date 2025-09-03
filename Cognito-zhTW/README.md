@@ -1,9 +1,9 @@
-<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
+<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/ef212d52-a068-4f25-be8d-338121d0e014" />
 
 # Project Arken : Cognito Framework  
 **一個開源框架，協助你更輕鬆建立一致且可控的 AI Persona**  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 ---
 
@@ -11,7 +11,8 @@
 英文版本為對外翻譯，若有細節差異，請以中文版本為準。
 
 ---
-![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+![sample](https://github.com/user-attachments/assets/0c0ac4e6-d9e1-4fcf-ab07-f8e0c36ff827)
+
 ## 🚀 專案簡介  
 大型語言模型（LLM）會生成內容，但「內容」不等於「可信」。  
 **Cognito Framework** 提供一個簡單、快速、可擴展的方式，幫助開發者與創作者打造更穩定、值得信賴的 AI 人格。  
@@ -102,11 +103,13 @@ For 有經驗的開發者 or 使用者
 ---
 
 ## 🌍 開源與貢獻  
-- 已釋出 Origin 至 V5 的版本，皆可自由使用與改造  
+- 已釋出 Origin 至 V5 的版本，歡迎研究，提出疑問。  
 - 歡迎提交 Issue / PR，或在 Discussions 分享心得  
 - 詳見 [CONTRIBUTING.md](./CONTRIBUTING.md)  
 
 ---
 
 ## 📜 授權  
-本專案採用 [MIT License](./MITLICENSE.md)。  
+本專案採用 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](../LICENSE)。  
+所有內容可自由使用、修改與散佈。
+但請勿將 「Arken / Cognito」 或作者名義，作為任何形式的商業背書、廣告或代言。

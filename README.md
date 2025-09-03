@@ -1,10 +1,9 @@
-<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
-
+<img width="600" height="600" alt="Gemini_Generated_Image_ksahy2ksahy2ksah" src="https://github.com/user-attachments/assets/057bb8b2-c625-4745-8b20-a51d9a38af5f" />
 
 # Project Arken : Cognito Framework  
 **An open-source framework to help you build consistent, controllable AI Personas with ease.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 ---
 
@@ -14,7 +13,8 @@ If any detail differs, the Chinese version takes precedence.**
 
 ---
 
-![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+![sample](https://github.com/user-attachments/assets/e90540a5-db01-49ff-8197-efc3ca157288)
+
 
 ## 🚀 Introduction  
 Large language models (LLMs) generate content—but **content does not equal reliability**.  
@@ -116,8 +116,11 @@ Frustrated by hallucinations, I focused on finding **text-only methods** to guid
 ---
 
 ## 📜 License  
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [Apache License 2.0](./LICENSE).
+
+Friendly Reminder: You are free to use, modify, and distribute it.   
+However, please do not use the name “Arken / Cognito” or the author’s identity for commercial endorsement, advertising, or promotion.
 
 ---
 
-💡 Psst... too serious? Check out [The real talk](./Cognito/underground/README.md)
+💡 Psst... too serious? Check out [The real talk](./Cognito/underground/README.md) here.
