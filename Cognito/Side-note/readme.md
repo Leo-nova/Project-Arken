@@ -1,4 +1,5 @@
 <img width="400" height="400" alt="Gemini_Generated_Image_x3u5vrx3u5vrx3u5" src="https://github.com/user-attachments/assets/81a42468-dccc-4ac0-b861-8bc144860715" />
+
 # Random Thoughts — Why Cognito Exists
 
 Some Simple but Honest Thoughts — Grab a Coffee and Read Along ☕  
