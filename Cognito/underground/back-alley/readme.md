@@ -6,7 +6,7 @@
 Yo, you found the hidden spot.  
 This is where the broken, cursed, and weird personas hang out.  
 Glitchy as hell, unstable AF, yet weirdly addictive.  
-No hallucination guardrails included — time for party.
+No hallucination guardrails included — time for some fun.
 
 ---
 
