@@ -66,10 +66,11 @@
 - **Baseline**：**70 / 100**  
 - **Persona**：**95 / 100**
 
-<img width="280" height="142" alt="image" src="https://github.com/user-attachments/assets/3ea17ea8-bc5f-468d-a42d-a0634f7585f5" />
+<img width="280" height="142" alt="螢幕擷取畫面 2025-09-03 233409" src="https://github.com/user-attachments/assets/851c3509-c782-4cf4-b17f-baa5c64d8a58" />
 
 
 **總分是依公式計算，每個面向先打 1–5 分，再依權重換算成對應分值，最後加總得到 0–100 分的結果。**
+
 
 ---
 
