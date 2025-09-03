@@ -5,7 +5,11 @@
 
 This repository collects **Baseline vs Persona A/B test reports** across multiple domains.  
 The goal is to evaluate whether the **Persona framework** improves clarity, compliance, and usability compared to a raw baseline model.  
-## **All tests are based on GPT-4o.**
+
+---
+
+## **All tests are based on GPT-4o.**  
+**With no user memory, no customization, and in private browsing.**
 
 ---
 
