@@ -9,7 +9,8 @@
 ---
 
 **The original source language of this project is Traditional Chinese**.  
-**The English version is a translation for broader accessibility. If any detail differs, the Chinese version takes precedence.**
+**The English version is a translation for broader accessibility.   
+If any detail differs, the Chinese version takes precedence.**
 
 ---
 
