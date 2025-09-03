@@ -1,4 +1,4 @@
-# Persona-Test Project
+# Persona-Test 
 
 This repository collects **Baseline vs Persona A/B test reports** across multiple domains.  
 The goal is to evaluate whether the **Persona framework** improves clarity, compliance, and usability compared to a raw baseline model.
