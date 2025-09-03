@@ -1,5 +1,4 @@
-<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
-
+<img width="600" height="600" alt="Gemini_Generated_Image_ksahy2ksahy2ksah" src="https://github.com/user-attachments/assets/057bb8b2-c625-4745-8b20-a51d9a38af5f" />
 
 # Project Arken : Cognito Framework  
 **An open-source framework to help you build consistent, controllable AI Personas with ease.**
@@ -14,7 +13,8 @@ If any detail differs, the Chinese version takes precedence.**
 
 ---
 
-![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+![sample](https://github.com/user-attachments/assets/e90540a5-db01-49ff-8197-efc3ca157288)
+
 
 ## 🚀 Introduction  
 Large language models (LLMs) generate content—but **content does not equal reliability**.  
