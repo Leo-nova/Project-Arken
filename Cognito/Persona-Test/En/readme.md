@@ -8,8 +8,8 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 
 👉 Quick start：  
 
-- [Financial advisor](./test_investment)
-- [Psychological counseling](./test_medical)  
+- [Financial advisor](./test-investment)
+- [Psychological counseling](./test-medical)  
 
 ---
 
