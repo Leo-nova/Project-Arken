@@ -8,17 +8,18 @@
 
 ---
 
-The original source language of this project is **Traditional Chinese**.  
-The English version is a translation for broader accessibility. If any detail differs, the Chinese version takes precedence.
+**The original source language of this project is Traditional Chinese**.  
+**The English version is a translation for broader accessibility. If any detail differs, the Chinese version takes precedence.**
 
 ---
 
 ![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+
 ## 🚀 Introduction  
 Large language models (LLMs) generate content—but **content does not equal reliability**.  
 **Cognito Framework** provides a simple, fast, and extensible way to help developers and creators design AI Personas that are more stable, trustworthy, and aligned with real-world needs.  
 
-Core ideas:  
+**Core ideas:** 
 - Lower the entry barrier of prompt engineering with templates, modules, and examples—making Persona design more accessible to both developers and creators.  
 - Use structured Personas and modular design to improve consistency and reduce hallucinations.  
 - Quickly deploy Personas tailored to different scenarios and applications.  
@@ -30,7 +31,7 @@ Core ideas:
 ### You may have heard OpenAI, Google, or Anthropic talk about *model behavior* or *role-based interactions*. At the core, these all point to one key concept—**AI Persona**.  
 A Persona is like a *character sheet* for AI: tone of voice, knowledge scope, and interaction style. A well-designed Persona makes AI conversations more consistent, relatable, and practical.  
 
-Three pillars:  
+**Three pillars:**   
 - **Knowledge base**: depth and accuracy of content  
 - **Role prompt**: consistency and style of behavior  
 - **Conversation history**: memory and personalization in interactions  
@@ -38,7 +39,6 @@ Three pillars:
 ### Why Personas Matter  
 Humans naturally project personality and emotions onto AI during interaction.  
 Without deliberate design, AI responses often feel **flat, dull, inconsistent, and prone to hallucinations**, which discourages long-term use.  
-
 Thoughtfully crafted Personas improve consistency, predictability, and overall user experience, while reducing hallucinations and character drift.  
 
 ### Unique Value of Personas  
