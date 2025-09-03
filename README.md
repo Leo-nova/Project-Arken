@@ -119,4 +119,4 @@ This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
-💡 Psst... too serious? Check out [The real talk.md](./Cognito/underground/README.md)
+💡 Psst... too serious? Check out [The real talk](./Cognito/underground/README.md)
