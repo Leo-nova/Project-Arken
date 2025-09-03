@@ -4,7 +4,7 @@ Made by Cognito™
 
 
 
-Companion Lily
+Lily
 
 
 
