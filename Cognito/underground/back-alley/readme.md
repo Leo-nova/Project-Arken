@@ -2,7 +2,7 @@
 
 Yo, you found the hidden spot.  
 This is where the **broken, cursed, and weird personas** hang out.  
-Not stable, not safe, but damn, they fun.  
+Glitchy as hell, unstable AF, yet weirdly addictive.
 
 ---
 
