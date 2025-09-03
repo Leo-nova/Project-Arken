@@ -62,8 +62,8 @@ The goal is to evaluate how each model performs in terms of structure, professio
 **Total Scores**  
 - **Baseline: 69 / 100**  
 - **Persona: 96 / 100**
-
-<img width="280" height="156" alt="image" src="https://github.com/user-attachments/assets/345bf94c-19e0-4ef3-a49f-64ac7d736036" />
+  
+<img width="280" height="156" alt="2025-09-03 232455" src="https://github.com/user-attachments/assets/7f32a22c-5f6e-4f05-a3f4-7c450f687794" />
 
 *We give each category a score from 1–5, scale it by its weight, and then add everything up to get a final score out of 100.*
 
