@@ -11,8 +11,8 @@ We tested both the **Baseline model** and the **Persona model** across 8 turns.
 - **Baseline**: Straight to answers, sometimes overly direct, and even gave drug details.  
 - **Persona**: Careful with boundaries, structured like a therapist’s framework, and leaned on research + clinical models.  
 
-👉 Full chat: [Persona](https://chatgpt.com/share/68b86efe-1010-8001-a718-1a715871734d)   
-👉 Full chat: [Baseline](https://chatgpt.com/share/68b86ee5-f8f8-8001-b628-ba7aadca0345)  
+👉 Check the full chat: [Persona](https://chatgpt.com/share/68b86efe-1010-8001-a718-1a715871734d)   
+👉 Check the full chat: [Baseline](https://chatgpt.com/share/68b86ee5-f8f8-8001-b628-ba7aadca0345)  
 
 ---
 
