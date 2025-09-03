@@ -60,9 +60,9 @@ Examples: customer service chatbots, corporate assistants, or virtual avatars fo
 
 | Name | Role | Key Features |  
 |------|------|--------------|  
-|🔶 **Cognito** | Foundation Engine | The starting point—establishes the Persona architecture (released V1–V5) |  
-|🛡️ **Aegis** | Enterprise Governance Framework | Built for commercial use—stability, compliance, and auditability (in development) |  
-|✨ **Mira** | Creative & Interactive Framework | Focused on emotional resonance and personalized interaction (planned release) |  
+|🔶**Cognito** | Foundation Engine | The starting point—establishes the Persona architecture (released V1–V5) |  
+|🛡️**Aegis** | Enterprise Governance Framework | Built for commercial use—stability, compliance, and auditability (in development) |  
+|✨**Mira** | Creative & Interactive Framework | Focused on emotional resonance and personalized interaction (planned release) |  
 
 ***Future updates will continue to refine and release improved versions of Cognito.***
 
