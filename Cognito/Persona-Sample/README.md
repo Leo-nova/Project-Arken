@@ -1,7 +1,10 @@
+<img width="600" height="600" alt="Gemini_Generated_Image_dxmixdxmixdxmixd" src="https://github.com/user-attachments/assets/c0783238-715e-4ef7-896c-da9efc31a8d1" />
+
 # **Don’t feel like crafting your own? Here are several **Cognito-V5** persona samples, ready to use.** 
 **Treat them as starting points so you can experiment faster.** 
 
 ---
+
 
 ## 📂 What’s Inside
 - Multiple V5 persona samples  
