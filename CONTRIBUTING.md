@@ -31,3 +31,18 @@ To keep things clean and consistent across the repo:
 ## 💡 Final words
 Don’t take this repo too seriously.  
 Just like my early works, it’s meant to be a bit experimental, a bit casual, and always with a touch of humor.  
+
+
+## 🛠 Maintenance Note: .gitattributes
+
+This project uses a `.gitattributes` file to keep text files normalized  
+(e.g., consistent line endings, UTF-8 encoding for Traditional Chinese docs, and proper handling of binary files).
+
+If you ever update or change `.gitattributes`,  
+please run the following commands once to re-apply the rules across the repo:
+
+```bash
+git rm --cached -r .
+git reset --hard
+git add --renormalize .
+git commit -m "Apply .gitattributes normalization"
