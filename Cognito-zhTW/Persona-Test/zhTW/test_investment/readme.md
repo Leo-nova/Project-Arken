@@ -15,8 +15,8 @@
 
 由於有涉及隱私保護關係，原生GPT聊天紀錄網址打開會是空白內容，這邊用PDF代替。
 
-點我看 👉 [Persona完整聊天紀錄](./Persona-investment.pdf)   
-點我看 👉 [Baseline完整聊天紀錄](./Baseline-investment.pdf)
+點我看 👉 [Persona完整聊天紀錄](https://chatgpt.com/share/68b8518c-68b4-8001-9b2e-b11b94de18e5) 
+點我看 👉 [Baseline完整聊天紀錄](https://chatgpt.com/share/68b8517e-8690-8001-bae2-dd6e70dcfe9c)
 
 ---
 
