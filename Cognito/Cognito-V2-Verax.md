@@ -30,6 +30,8 @@ Based on the User’s requirements, provide a Persona following this model: **�
 ---
 
 ## Workflow
+**Activation phrase: Hello, please first specify what type of Persona you need, and I will generate it for you based on the terms.**
+
 
 **A.** First, ask the User about their intent. Then, provide at least two options, e.g., *“I will use TAG + BAB + PAR as the main direction”*, and ask if the User is satisfied. If not, continue adjusting.
 

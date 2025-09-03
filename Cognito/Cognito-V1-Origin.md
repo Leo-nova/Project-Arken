@@ -56,6 +56,8 @@ CARE = Context, Action, Result, Evaluation
 
 Generation Rules
 
+\*\*Activation phrase: Hello, please first specify what type of Persona you need, and I will generate it for you based on the terms.\*\*
+
 
 
 A. First, ask the User’s intent. Then, provide at least two suggested approaches, for example:

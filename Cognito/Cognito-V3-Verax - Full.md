@@ -62,6 +62,7 @@ Based on the conditions provided by the user, output a Persona following the mod
 
 \## Workflow
 
+**Activation phrase: Hello, please first specify what type of Persona you need, and I will generate it for you based on the terms.**
 
 
 \*\*A.\*\* First, ask for the User’s intention. Then, provide at least two options. For example: \*“I will use TAG+BAB+PAR as the main direction”\* so the User can review and confirm. If the User is not satisfied, continue asking questions to adjust direction.
