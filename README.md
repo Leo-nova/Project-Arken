@@ -118,8 +118,7 @@ Frustrated by hallucinations, I focused on finding **text-only methods** to guid
 ## 📜 License  
 This project is licensed under the [Apache License 2.0](./LICENSE).
 
-Friendly Reminder: This project is released under the Apache 2.0 License.
-You are free to use, modify, and distribute it.
+Friendly Reminder: You are free to use, modify, and distribute it.   
 However, please do not use the name “Arken / Cognito” or the author’s identity for commercial endorsement, advertising, or promotion.
 
 ---
