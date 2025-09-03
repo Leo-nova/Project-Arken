@@ -86,10 +86,9 @@ But in practice, even a local GPT-OSS-20B runs quite well.
 
 ## 📊 Want to see the test data?
 
-Choose your language:
+Check the Persona-Test folder
+- 👉 [Persona-Test](./Cognito/Persona-Test/)  
 
-- 👉 [English Reports (En)](./Cognito/Persona-Test/En/)  
-- 👉 [中文報告 (zhTW)](./Cognito/Persona-Test//zhTW/)  
 
 Each folder has detailed README files and all test cases.
 
