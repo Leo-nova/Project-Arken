@@ -13,7 +13,7 @@
 ## 💡 How to Use
 1. Open any sample  
 2. Copy the content and tweak as needed  
-3. Paste it into your LLM chat  
+3. Paste it into your LLM chat with prompt *"Load this persona"*  
 4. Start the conversation and see the persona in action
 
 ---
