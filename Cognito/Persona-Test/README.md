@@ -1,45 +1,28 @@
-# Persona-Test  
+# Persona-Test Project
 
-This repository hosts our **Persona vs Baseline A/B test reports**, across multiple domains (finance, healthcare, etc.).  
-The goal is to evaluate how **Persona frameworks** improve large language models by making them more structured, compliant, and user-friendly compared to raw baseline outputs.  
-
----
-
-## 📂 Repository Structure
-
-- `En/` → English reports  
-- `zhTW/` → Traditional Chinese reports  
-
-Each folder contains Markdown reports that compare **Baseline** and **Persona** responses side by side, with scoring tables and conclusions.  
+This repository collects **Baseline vs Persona A/B test reports** across multiple domains.  
+The goal is to evaluate whether the **Persona framework** improves clarity, compliance, and usability compared to a raw baseline model.
 
 ---
 
-## 🎯 Purpose
+## 📂 Structure
 
-- Benchmark Persona vs Baseline performance  
-- Assess clarity, professionalism, compliance, and usability  
-- Provide reproducible evaluation criteria (weighted scoring formula)  
+- **[En/](./En/)** → English reports  
+- **[zhTW/](./zhTW/)** → Traditional Chinese reports  
 
-This project is **for research and educational purposes only**.  
-It does **not** provide financial, medical, or mental health advice.  
+Each subfolder has its own README with details, evaluation criteria, and domain-specific results.
 
 ---
 
-## 🌍 Available Reports
+## 🧭 Purpose
 
-- Finance (ETF investment Q&A)  
-- Healthcare (psychology / safety plan)  
-- More domains to come (e.g. law, education, customer support)  
-
----
-
-## 📌 Notes
-
-- Persona consistently shows stronger compliance and structure, without “hallucinating” or giving unsafe advice.  
-- Reports are designed to be **human-readable** and **framework-driven**, not just raw transcripts.  
+- Provide transparent, reproducible test cases  
+- Compare outputs on complex, real-world topics (finance, healthcare, etc.)  
+- Show how Personas can stabilize model behavior and reduce inconsistency  
 
 ---
 
-👉 To start reading, pick a language folder:  
-- [English Reports](./En/)  
-- [繁體中文報告](./zhTW/)  
+## ⚠️ Disclaimer
+
+All content is for **research and educational purposes only**.  
+It does **not** constitute financial, medical, or professional advice.
