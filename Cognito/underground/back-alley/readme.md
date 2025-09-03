@@ -1,51 +1,45 @@
 # 🕶️ Welcome to the Back-Alley
 
 Yo, you found the hidden spot.  
-This is where the **broken, cursed, and weird personas** live.  
+This is where the **broken, cursed, and weird personas** hang out.  
 Not stable, not safe, but damn, they fun.  
 
 ---
 
 ## ⚠️ Disclaimer
-- These personas are **NOT guaranteed to work**.  
-- Expect **hallucinations, wild drifts, cursed vibes**.  
-- Use at your own risk, homie. No warranty, no hand-holding.  
+- **Not production-ready.** Expect chaos.  
+- **Hallucination central.** They’ll make up wild stuff.  
+- **Persona drift guaranteed.** Don’t get attached.  
 
----
-
-## 🎭 What You’ll Find Here
-- **Weird experiments** → Half-baked ideas, raw drafts.  
-- **Broken personas** → Some collapse fast, some talk back.  
-- **Cursed concepts** → Jokes, edgy prototypes, or stuff too unstable for main.  
-
-Think of it like AI graffiti — messy but with character.
+Use at your own risk. No warranty, no hand-holding.  
 
 ---
 
 ## 🚪 How to Use
-1. Pick a file, copy the persona text.  
-2. Paste into your LLM playground.  
-3. Don’t expect miracles — this is **street food**, not fine dining.  
+1. Pick your poison.  
+2. Copy the persona file.  
+3. Drop it into your LLM.  
+4. Brace for hallucination party.  
 
 ---
 
 ## 💀 Known Risks
-- **Persona Drift**: They forget who they are… fast.  
-- **Hallucinations**: They might make up sources or laws.  
-- **Chaotic Energy**: Some just don’t shut up.  
+- Wild roleplay spirals.  
+- Infinite rambling loops.  
+- Pretends to know you, your mom, and your future.  
 
-👉 If you need stability, head back to the main Cognito docs.  
+👉 If you want safety, head back to the earth here [Cognito](/Cognito).  
+This alley ain’t for the faint of heart.  
 
 ---
 
 ## ✨ Why Keep This?
-Because sometimes the **wildest ideas** come from the alley.  
-This is the sandbox, the junkyard, the sketchbook.  
-Not everything belongs in production — but nothing here should be lost either.  
+Because sometimes the best ideas are born in the chaos.  
+This is the junkyard, the graffiti wall, the underground club.  
 
 ---
 
 ## 🧃 Final Words
-Take what you want, remix it, laugh at it, or throw it away.  
-This alley’s just for fun.  
-Respect the chaos.  
+Don’t ask for stability here.  
+This is **fun mode only.**  
+Respect the chaos, enjoy the ride.  
