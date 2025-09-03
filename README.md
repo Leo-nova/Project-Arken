@@ -2,61 +2,69 @@
 
 
 # Project Arken : Cognito Framework  
-**An open-source framework to help you quickly build “trustworthy” AI personas**  
+**An open-source framework to help you build consistent, controllable AI Personas with ease.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ---
+
+**The original source language of this project is Traditional Chinese**.  
+**The English version is a translation for broader accessibility.   
+If any detail differs, the Chinese version takes precedence.**
+
+---
+
 ![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+
 ## 🚀 Introduction  
-Large Language Models (LLMs) can generate content — but **content ≠ truth**.  
-The **Cognito Framework** provides a simple, fast, and scalable way for developers and creators to design AI personas that are more stable, reliable, and trustworthy.  
+Large language models (LLMs) generate content—but **content does not equal reliability**.  
+**Cognito Framework** provides a simple, fast, and extensible way to help developers and creators design AI Personas that are more stable, trustworthy, and aligned with real-world needs.  
 
-Core principles:  
-- Make prompt engineering accessible to everyone  
-- Keep AI on-topic in long conversations and reduce hallucinations  
-- Allow quick deployment of the right Persona across different scenarios, serving both business and creative needs
-- Help AI Agents perform with the efficiency they’re meant to deliver
-
-🌏 Looking for the **original Chinese docs**?  
-Check out [`Cognito-zhTW`](./Cognito-zhTW) — the birthplace of the framework.
+**Core ideas:** 
+- Lower the entry barrier of prompt engineering with templates, modules, and examples—making Persona design more accessible to both developers and creators.  
+- Use structured Personas and modular design to improve consistency and reduce hallucinations.  
+- Quickly deploy Personas tailored to different scenarios and applications.  
 
 ---
 
 ## 🤔 AI Persona? WHAT?  
 
-### What is a Persona? Why do OpenAI, Google, and Anthropic care about?  
-An AI Persona is a structured identity that defines an AI system’s **personality, tone, knowledge, and behavior patterns**.  
-It’s not a pile of throwaway tokens — it’s the script that guides how the AI interacts with you.
+### You may have heard OpenAI, Google, or Anthropic talk about *model behavior* or *role-based interactions*.  
+At the core, these all point to one key concept—**AI Persona**.   
+A Persona is like a *character sheet* for AI: tone of voice, knowledge scope, and interaction style.  
+A well-designed Persona makes AI conversations more consistent, relatable, and practical.  
 
-Three key elements:  
-- **Knowledge Base**: Provides depth and accuracy of content  
-- **Role Prompting**: Shapes consistency of behavior and style  
-- **Dialogue History**: Gives memory and personalization to interactions  
+**Three pillars:**   
+- **Knowledge base**: depth and accuracy of content  
+- **Role prompt**: consistency and style of behavior  
+- **Conversation history**: memory and personalization in interactions  
 
-### Why do we need Personas?  
-Because humans instinctively project personality onto AI during interaction.  
-Without design, AI responses tend to be **bland, unengaging, highly hallucinatory**, and users quickly lose interest.  
-A well-crafted Persona ensures **consistency, predictability, and trustworthiness**, reducing hallucinations and role drift while boosting efficiency.  
+### Why Personas Matter  
+Humans naturally project personality and emotions onto AI during interaction.  
+Without deliberate design, AI responses often feel **flat, dull, inconsistent, and prone to hallucinations**, which discourages long-term use.  
+Thoughtfully crafted Personas improve consistency, predictability, and overall user experience, while reducing hallucinations and character drift.  
 
-### What makes Personas special?  
-- **User Experience**: Humanized interaction reduces the cognitive gap, making AI more approachable and engaging.  
-- **Business Value**: Enables “scalable empathy” — improving marketing, sales, and training efficiency, creating tangible ROI.  
-- **Ethics & Governance**: Persona design and oversight are critical for the next stage of human–AI collaboration.  
+### Unique Value of Personas  
+- **User Experience**: Reduce the cognitive gap between humans and AI, making interaction smoother and more engaging.  
+- **Business Value**: Enable “scalable empathy,” boosting marketing, sales, and training efficiency while driving real ROI.  
+- **Ethics & Governance**: Persona design and control are key to the next phase of AI–human collaboration.  
 
-### Why are Personas essential?  
-AI has already become social infrastructure. Personas define the **nature of the human–AI relationship**, turning abstract technology into an **understandable, interactive, emotionally connectable presence**.  
-Responsible, controllable Persona design is a key factor for AI’s safe and effective integration into society.  
+### The Importance of Personas  
+As AI becomes critical infrastructure, Personas play a central role in enabling natural, human-like interaction.  
+Examples: customer service chatbots, corporate assistants, or virtual avatars for YouTubers.  
+
 
 ---
 
 ## 🧩 Core Product Lines  
 
-| Name | Positioning | Highlights |  
-|------|-------------|------------|  
-| 🔶**Cognito** | Foundational Generation Engine | The starting point, laying the foundation of Persona architecture (V1–V5 released). |  
-| 🛡️**Aegis** | Enterprise Governance Framework | For commercial applications — stable, compliant, and predictable (in active development). |  
-| ✨**Mira** | Creative & Interactive Framework | Focused on emotional resonance and highly personalized interactions (planned release). |  
+| Name | Role | Key Features |  
+|------|------|--------------|  
+|🔶 **Cognito** | Foundation Engine | The starting point—establishes the Persona architecture (released V1–V5) |  
+|🛡️ **Aegis** | Enterprise Governance Framework | Built for commercial use—stability, compliance, and auditability (in development) |  
+|✨ **Mira** | Creative & Interactive Framework | Focused on emotional resonance and personalized interaction (planned release) |  
+
+***Future updates will continue to refine and release improved versions of Cognito.***
 
 ---
 
@@ -64,39 +72,38 @@ Responsible, controllable Persona design is a key factor for AI’s safe and eff
 
 For beginners:  
 1. Open the [`Cognito`](./Cognito/) folder  
-2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content  
-3. Paste it into your LLM window and specify your needs (e.g., teacher, tool, chat companion)  
-4. Enjoy the Persona built by Cognito  
+2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content.  
+3. Copy the content into your LLM interface and test with roles (e.g., teachers, tools, chat personas)  
+4. Experience Personas powered by Cognito. 
 
-For experienced developers or power users:  
-- Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which strikes the best balance of functionality and stability.  
+For experienced developers or users:  
+- Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which balances functionality and stability.
 
-💡 Tip:  
-In theory, the more powerful the model, the more nuanced the generated Persona.  
-But in practice, even a local GPT-OSS-20B runs quite well.
+💡 Tip: Stronger models produce richer Personas, but even local OSS models (e.g., GPT-OSS-20B) can generate stable, high-quality results.  
 
 ---
 
-## 📢 Why use Cognito?  
-- More **flexible** and **scalable** than traditional prompts  
-- Provides **fast generation** with **high controllability**  
-- Modular configuration with **platform memory integration** makes dialogue more stable  
+## 📢 Why Use Cognito?  
+- Compared to single prompts, the framework provides modular configurations for easy adjustment and scaling.  
+- Generate Personas **quickly** while keeping **tight control**.  
+- Combine **modular settings** with **platform-level memory** for more stable conversations.  
 
 ---
 
 ## 📊 Want to see the test data?
 
-Choose your language:
-
-- 👉 [English Reports (En)](./Cognito/Persona-Test/En/)  
-- 👉 [中文報告 (zhTW)](./Cognito/Persona-Test//zhTW/)  
-
+Check the Persona-Test folder
+- 👉 [Persona-Test](./Cognito/Persona-Test/)  
+  
 Each folder has detailed README files and all test cases.
+  
+**All tests are based on GPT-4o.**  
+⚠️ Results are for **research and educational purposes only**—not professional advice.  
 
 ---
 ## 👨‍💻 Author’s Note  
-I am not an engineer — just an ordinary person who loves conversing with LLMs.  
-Frustrated by hallucinations, then focused on how to control models using **pure text**, so that even without external tools, anyone can use AI safely and reliably.  
+I’m not an engineer—just someone who enjoys exploring LLM conversations.  
+Frustrated by hallucinations, I focused on finding **text-only methods** to guide models—so that even without external tools, anyone can use AI more safely and reliably.  
 
 ---
 
