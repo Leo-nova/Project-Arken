@@ -70,7 +70,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](/Cognito/Cognito-V5-2.0.md) —
 | [Cognito-V4-Aura-2.0-C2.md](/Cognito/Cognito-V4-Aura-2.0-C2.md) | **V4-C2** | **Double Draft Hustle**: Two drafts battle, critique, then merge. Ambitious, but heavy AF. | Theory heads only, not for real streets. |
 | [Cognito-V4-Aura-Lite.md](/Cognito/Cognito-V4-Aura-Lite.md) | **V4-Lite** | **Slim Maze**: Just tone, logic, fact checks. Fast but flimsy. | Low-risk play, quick test vibes. |
 | [Cognito-V5-1.0.md](/Cognito/Cognito-V5-1.0.md) | **V5-1.0** | **Architect’s Draft**: Dropped the maze. Back to reality. Jurisdiction checks, red-team hustle. Compliance on top. | For experimenting the full workflow. |
-| [Cognito-V5-2.0.md](/Cognito/Cognito-V5-2.0.md) | **V5-2.0** | **Street-Ready Release** ✅: Stronger red-team, formats on lock (Micro, Standard, Deep-Dive). Clean, solid, real talk only. | The go-to. Stable, ready for action. |
+| [Cognito-V5-2.0.md](/Cognito/Cognito-V5-2.0.md) | **V5-2.0** | **Street-Ready Release** ✅: Stronger red-team things, formats on lock (Micro, Standard, Deep-Dive). Clean, solid, real talk only. | The go-to. Stable, ready for action. |
 
 > \[ COGNITO • KEEP IT REAL • STAY HONEST • NO CAP ]
 
@@ -80,7 +80,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](/Cognito/Cognito-V5-2.0.md) —
 - Flexible as hell.  
 - Fast to set up.  
 - Keeps your AI from talking nonsense when convos go long.  
-- Tell the Cognito you don't need Verax or Aura for fun(plz don't do that).
+- Tell the Cognito you don't need Verax or Aura for fun (plz don't do that).
 
 ---
 
