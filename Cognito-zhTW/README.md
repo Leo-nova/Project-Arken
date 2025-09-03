@@ -111,3 +111,5 @@ For 有經驗的開發者 or 使用者
 
 ## 📜 授權  
 本專案採用 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](../LICENSE)。  
+所有內容可自由使用、修改與散佈。
+但請勿將 「Arken / Cognito」 或作者名義，作為任何形式的商業背書、廣告或代言。
