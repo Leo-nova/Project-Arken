@@ -4,7 +4,7 @@
 # Project Arken : Cognito Framework  
 **An open-source framework to help you quickly build “trustworthy” AI personas**  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ---
 ![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
