@@ -1,3 +1,6 @@
+
+<img width="1000" height="544" alt="Gemini_Generated_Image_fxtxxrfxtxxrfxtx" src="https://github.com/user-attachments/assets/705896d1-431c-4e2a-8ffd-449f4b728382" />
+
 # Persona-Test 
 
 This repository collects **Baseline vs Persona A/B test reports** across multiple domains.  
