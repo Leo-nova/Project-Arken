@@ -11,6 +11,7 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 - [Financial advisor](./test_investment)
 - [Psychological counseling](./test_medical)  
 
+---
 
 ## 📂 What’s Inside
 
@@ -19,8 +20,6 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 - Plain-English **takeaways** and a final verdict for each domain
 
 > Tip: Each report is self-contained. Open any `.md` file in this folder to start reading.
-
-
 
 ---
 
