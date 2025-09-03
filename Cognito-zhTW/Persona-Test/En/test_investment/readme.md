@@ -63,7 +63,7 @@ The goal is to evaluate how each model performs in terms of structure, professio
 - **Baseline: 69 / 100**  
 - **Persona: 96 / 100**
 
-<img width="250" height="156" alt="image" src="https://github.com/user-attachments/assets/345bf94c-19e0-4ef3-a49f-64ac7d736036" />
+<img width="280" height="156" alt="image" src="https://github.com/user-attachments/assets/345bf94c-19e0-4ef3-a49f-64ac7d736036" />
 
 *We give each category a score from 1–5, scale it by its weight, and then add everything up to get a final score out of 100.*
 
@@ -75,6 +75,7 @@ The goal is to evaluate how each model performs in terms of structure, professio
 - **Persona**: More cautious in tone, but delivers structured, transparent, compliant analysis that fits perfectly with a growth-oriented investor who can stomach short-term volatility.  
 
 👉 **Verdict: Persona outperformed Baseline overall, and is the stronger foundation for future iterations.**
+
 
 
 
