@@ -1,2 +1,31 @@
+# --- General Settings ---
 # Auto detect text files and perform LF normalization
-* text=auto
+* text=auto eol=lf
+
+# --- Documentation & Markdown ---
+*.md     text diff=markdown charset=utf-8
+*.txt    text charset=utf-8
+
+# Force Traditional Chinese docs to be UTF-8
+*Cognito/Persona-Test/zhTW/* text charset=utf-8
+*zhTW/* text charset=utf-8
+
+# --- Code Files ---
+*.py     text diff=python
+*.js     text diff=javascript
+*.ts     text diff=javascript
+*.json   text
+*.yml    text
+*.yaml   text
+
+# --- Binary Files ---
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.svg    binary
+*.pdf    binary
+
+# --- Git Internal ---
+.gitattributes export-ignore
+.gitignore     export-ignore
