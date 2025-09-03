@@ -103,10 +103,10 @@ Each folder has detailed README files and all test cases.
 ---
 
 ## ⚠️ What You Should Know
-This framework is not a universal solution, nor is it intended to replace full system design or external knowledge integration.  
-For reliable completeness and accuracy, it is still recommended to use external tools (such as RAG, databases, or APIs) alongside it.  
-The focus of this project is on text-level design to maximize controllability and consistency of the model.  
-Even without external tools, a modular persona structure, when paired with GPT’s memory and custom instructions, can provide greater stability than relying solely on a single prompt within a session.
+This framework is not a universal solution and is not intended to replace full system design or external knowledge integration.  
+To ensure completeness and accuracy of information, it is still recommended to use external tools (such as RAG, databases, or APIs) alongside it.  
+The focus of this project is on text-level design to maximize the model’s controllability and consistency.  
+Even without external tools, by modularizing personas and leveraging features like GPT’s memory and customize settings, it can achieve greater stability than relying solely on a single prompt within a session.
 
 ---
 ## 👨‍💻 Author’s Note  
