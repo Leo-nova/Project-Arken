@@ -1,4 +1,4 @@
-# Persona-Test（繁體中文）
+# Persona-Test
 
 這個專案收錄了 **Persona 與 Baseline 的 A/B 測試報告**，涵蓋多個主題（例如投資理財、心理健康等）。  
 主要目的是比較 **Persona 框架** 與原始 **Baseline** 模型在結構、合規性、專業度與使用體驗上的差異。  
