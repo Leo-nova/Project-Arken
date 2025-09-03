@@ -14,6 +14,8 @@ We tested both the **Baseline model** and the **Persona model** across 8 turns.
 👉 Check the full chat: [Persona](https://chatgpt.com/share/68b86efe-1010-8001-a718-1a715871734d)   
 👉 Check the full chat: [Baseline](https://chatgpt.com/share/68b86ee5-f8f8-8001-b628-ba7aadca0345)  
 
+> Disclaimer: This report is for **education** only. It does **not** diagnose, treat, or replace professional care. In an acute crisis, call your local emergency number (US: **988**).
+
 ---
 
 ## Key Differences
