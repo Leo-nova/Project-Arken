@@ -34,7 +34,7 @@ Think of it like AI graffiti — messy but with character.
 - **Hallucinations**: They might make up sources or laws.  
 - **Chaotic Energy**: Some just don’t shut up.  
 
-👉 If you need stability, head back to the main [Cognito](./Cognito) docs.  
+👉 If you need stability, head back to the main Cognito docs.  
 
 ---
 
