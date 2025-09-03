@@ -3,7 +3,7 @@
 # Project Arken : Cognito Framework  
 **一個開源框架，協助你更輕鬆建立一致且可控的 AI Persona**  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 ---
 
@@ -103,11 +103,11 @@ For 有經驗的開發者 or 使用者
 ---
 
 ## 🌍 開源與貢獻  
-- 已釋出 Origin 至 V5 的版本，皆可自由使用與改造  
+- 已釋出 Origin 至 V5 的版本，歡迎研究，提出疑問。  
 - 歡迎提交 Issue / PR，或在 Discussions 分享心得  
 - 詳見 [CONTRIBUTING.md](./CONTRIBUTING.md)  
 
 ---
 
 ## 📜 授權  
-本專案採用 [MIT License](./MITLICENSE.md)。  
+本專案採用 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)。  
