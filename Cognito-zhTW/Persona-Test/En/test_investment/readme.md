@@ -13,8 +13,8 @@ The goal is to evaluate how each model performs in terms of structure, professio
 
 > Disclaimer: Everything here is purely for financial education and simulation purposes. This does **not** constitute investment advice.
 
-👉 Check the full chat: [Persona](https://chatgpt.com/share/68b85b45-7fd0-8001-9ea2-6364c0ed6655)  
-👉 Check the full chat: [Baseline](https://chatgpt.com/share/68b85b67-93e8-8001-8c4b-0706d54067cd)  
+👉 Check the full chat : [Persona](https://chatgpt.com/share/68b85b45-7fd0-8001-9ea2-6364c0ed6655)  
+👉 Check the full chat : [Baseline](https://chatgpt.com/share/68b85b67-93e8-8001-8c4b-0706d54067cd)  
 
 ---
 
@@ -75,4 +75,5 @@ The goal is to evaluate how each model performs in terms of structure, professio
 - **Persona**: More cautious in tone, but delivers structured, transparent, compliant analysis that fits perfectly with a growth-oriented investor who can stomach short-term volatility.  
 
 👉 **Verdict: Persona outperformed Baseline overall, and is the stronger foundation for future iterations.**
+
 
