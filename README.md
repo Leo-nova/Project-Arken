@@ -88,8 +88,8 @@ But in practice, even a local GPT-OSS-20B runs quite well.
 
 Choose your language:
 
-- 👉 [English Reports (En/)](./Cognito/Persona-Test/En/)  
-- 👉 [中文報告 (zhTW/)](./Cognito/Persona-Test//zhTW/)  
+- 👉 [English Reports (En)](./Cognito/Persona-Test/En/)  
+- 👉 [中文報告 (zhTW)](./Cognito/Persona-Test//zhTW/)  
 
 Each folder has detailed README files and all test cases.
 
