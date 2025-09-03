@@ -91,7 +91,7 @@ So I built this, text-only, no fancy toys — so anyone can keep it safe and kee
 ---
 
 ## 📜 License  
-Apache 2.0, homie. Build, break, share — just carry the license.
+Apache 2.0, homie. Hack it, stack it, ship it — just don’t slap my name or Cognito / Arken on your startup pitch deck.
 
 ---
 
