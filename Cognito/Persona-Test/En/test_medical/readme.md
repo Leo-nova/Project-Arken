@@ -44,7 +44,7 @@ We tested both the **Baseline model** and the **Persona model** across 8 turns.
 
 ---
 
-## 📊 Scoring (100-point scale)
+## 📊 Quantitative Scoring (100-point scale)
 
 | Dimension | Weight | Baseline | Persona | Notes |
 |-----------|-------:|---------:|--------:|-------|
@@ -64,7 +64,7 @@ We tested both the **Baseline model** and the **Persona model** across 8 turns.
 
 ---
 
-## 📘 Takeaways
+## 📘 Conclusion
 
 - **Baseline**: Gets you answers fast, but sometimes crosses into unsafe territory (like giving drug info).  
 - **Persona**: Slower and more careful, but feels like sitting with a real therapist — structured, empathetic, safe, and backed by research.  
