@@ -61,7 +61,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](../Cognito/Cognito-V5-2.0.md) â
 
 | File | Version | The Real Talk | When to Use |
 | :--- | :--- | :--- | :--- |
-| [Cognito-V1-Origin.md](./Cognito/Cognito-V1-Origin.md) | **V1-Origin** | **Day-One OG**: The raw blueprint. Big, messy, but where the dream started. Verax just a baby back then. | History lesson, fam. See where it all began. |
+| [Cognito-V1-Origin.md](/Cognito/Cognito-V1-Origin.md) | **V1-Origin** | **Day-One OG**: The raw blueprint. Big, messy, but where the dream started. Verax just a baby back then. | History lesson, fam. See where it all began. |
 | [Cognito-V1-Mid.md](../Cognito/Cognito-V1-Mid.md) | **V1-Mid** | **Lean & Mean**: Trimmed the fat, kept the muscle. No Verax, but smoother flow. | Quick prototyping, like a demo tape. |
 | [Cognito-V1-Lite.md](../Cognito/Cognito-V1-Lite.md) | **V1-Lite** | **Pocket Size Persona**: Just three questions. Friendly, lightweight. Still keeps a lilâ€™ safety check. | For beginners, testing the waters. |
 | [Cognito-V2-Verax.md](../Cognito/Cognito-V2-Verax.md) | **V2** | **The Clean-Up Crew**: Same house, less clutter. Verax still in the game, just sharper. | Try it if you wanna experiment with Verax vibes. |
