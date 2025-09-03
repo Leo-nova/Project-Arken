@@ -64,7 +64,7 @@ Examples: customer service chatbots, corporate assistants, or virtual avatars fo
 |🛡️ **Aegis** | Enterprise Governance Framework | Built for commercial use—stability, compliance, and auditability (in development) |  
 |✨ **Mira** | Creative & Interactive Framework | Focused on emotional resonance and personalized interaction (planned release) |  
 
-***Future updates will refine and optimize the Persona kernels.***
+***Future updates will continue to refine and release improved versions of Cognito.***
 
 ---
 
