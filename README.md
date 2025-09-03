@@ -29,8 +29,10 @@ Large language models (LLMs) generate content—but **content does not equal rel
 
 ## 🤔 AI Persona? WHAT?  
 
-### You may have heard OpenAI, Google, or Anthropic talk about *model behavior* or *role-based interactions*. At the core, these all point to one key concept—**AI Persona**.  
-A Persona is like a *character sheet* for AI: tone of voice, knowledge scope, and interaction style. A well-designed Persona makes AI conversations more consistent, relatable, and practical.  
+### You may have heard OpenAI, Google, or Anthropic talk about *model behavior* or *role-based interactions*.  
+At the core, these all point to one key concept—**AI Persona**.   
+A Persona is like a *character sheet* for AI: tone of voice, knowledge scope, and interaction style.  
+A well-designed Persona makes AI conversations more consistent, relatable, and practical.  
 
 **Three pillars:**   
 - **Knowledge base**: depth and accuracy of content  
