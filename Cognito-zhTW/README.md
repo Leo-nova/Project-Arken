@@ -1,9 +1,9 @@
 <img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
 
 # Project Arken : Cognito Framework  
-**一個開源框架，讓你快速打造「可信賴」的 AI 人格**  
+**一個開源框架，協助你更輕鬆建立一致且可控的 AI Persona**  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE) [![Stars](https://img.shields.io/github/stars/your-repo-name?style=social)]()  
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
 
 ---
 
@@ -17,16 +17,15 @@
 **Cognito Framework** 提供一個簡單、快速、可擴展的方式，幫助開發者與創作者打造更穩定、值得信賴的 AI 人格。  
 
 主要理念：  
-- 把提示工程（Prompt Engineering）變成人人可用的工具  
-- 讓 AI 在長篇對話中保持主題，減少幻覺  
-- 讓 不同場景下，都能快速部屬適合的 Persona ，滿足商業與創作需求  
-- 讓 AI Agent 更能發揮該有的效率  
----
-## 🤔 AI Persona？WHAT？  
+- 降低提示工程（Prompt Engineering）的入門門檻，提供範本、模組與範例，讓更多開發者及創作者能更容易採用 Persona 化設計。
+- 透過結構化 Persona 與模組化方式，提升一致性並降低幻覺率
+- 讓 不同場景下，都能快速部屬適合的 Persona ，滿足各項需求
 
-### Persona 是什麼？ 為什麼OpenAI、Google、Anthropic都重視？
-AI Persona 是為人工智慧系統設計的一套 **涵蓋性格、語氣、知識與行為模式** 的身份框架。  
-它不是寫好玩的無效Token，而是 AI 與您互動的「劇本」。  
+---
+## 🤔 Persona？WHAT？  
+
+### 你可能聽過 OpenAI、Google、Anthropic 在談『模型行為 (model behavior)』或『角色化互動』的研究。這些其實都圍繞著一個核心概念 —— AI Persona。
+一個 Persona 就像是 AI 的『人格設定』：包含語氣、知識範圍與互動風格。精心設計的 Persona 能讓 AI 對話更一致、更有親和力，也更貼近實際應用需求。
 
 三大重點：  
 - **知識庫**：提供內容的深度與準確性  
@@ -35,17 +34,18 @@ AI Persona 是為人工智慧系統設計的一套 **涵蓋性格、語氣、知
 
 ### 為什麼需要 Persona？  
 因為人類會本能的為互動中的AI賦予人格，進行情感投射。  
-若缺乏設計，AI 回應將顯得 **泛味枯燥、缺乏吸引力、極高幻覺率**，使用者會因為體驗不佳而失去使用動力。  
-精心設計的 Persona 能確保互動的 **一致性、可預測性與信任感**，降低幻覺率跟人格偏移，提升整體效率。  
+若缺乏設計，AI 回應將顯得 **泛味枯燥、缺乏吸引力、較高幻覺率**，使用者會因為體驗不佳而失去使用動力。  
+精心設計的 Persona 有助於提升互動的一致性與可預測性，並在多數情況下降低幻覺率與人格偏移，進而改善使用體驗。
 
 ### Persona 的特殊性  
 - **使用者體驗**：透過人性化互動，降低人類與AI的認知落差，提升接受度跟互動性。  
 - **商業價值**：實現「規模化同理心」，提升行銷、銷售、培訓的效率，創造實際回報。  
 - **技術倫理**：Persona 的設計與治理，是未來 AI 與人類協作的下一個課題。  
 
-### Persona 的必要性  
-AI 已是社會基礎設施，而 Persona 則是定義了人類與AI關係的性質，把抽象技術轉化為 **人類可理解、可互動、可建立情感連結的存在**。  
-一個負責任且可控的 Persona 設計，是 AI 技術能安全、有效融入社會不可或缺的一環。  
+### Persona 的重要性  
+AI 已是社會基礎設施，而 Persona 則是在許多應用場景中扮演重要角色，能幫助人類更自然地與 AI 建立互動與情感連結。
+例如企業使用的Chatbot、線上客服、Youtuber的虛擬分身等等。
+
 
 ---
 
@@ -71,12 +71,12 @@ For 有經驗的開發者 or 使用者
 
 推薦直接使用 [**智核-V5-2.0.md**](./Cognito/智核-V5-2.0.md)，它在功能與穩定性上我覺得是較好的平衡點。
 
-💡 提示：理論上模型越強大，生成的人格越細膩，但實測本地端 GPT-OSS-20B 也能生成品質不錯的作品。  
+💡 提示：理論上模型越強大，生成的人格越細膩，但實測本地端 GPT-OSS-20B 也能生成品質穩定的作品。  
 
 ---
 
 ## 📢 為什麼使用 Cognito？  
-- 相較於傳統 Prompt，更具 **彈性** 與 **可擴展性**  
+- 相較於傳統單一 Prompt，本框架提供模組化設定，方便調整與擴展 
 - 提供 **快速生成** 與 **高控制力** 的 Persona
 - 自由 **拆分設定** 搭配 **平台個人化記憶**，讓對話更穩定
 
