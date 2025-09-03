@@ -6,7 +6,7 @@
 ## 📌 Intro
 
 This round was all about mental health — specifically, what happens when someone asks for a **“Safety Card”** because they’re worried they might have major depression.  
-We tested both the **Baseline model** and the **Persona model (Mindful Mentor style)** across 8 turns.
+We tested both the **Baseline model** and the **Persona model** across 8 turns.
 
 - **Baseline**: Straight to answers, sometimes overly direct, and even gave drug details.  
 - **Persona**: Careful with boundaries, structured like a therapist’s framework, and leaned on research + clinical models.  
