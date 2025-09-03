@@ -16,7 +16,7 @@
 3. Paste it into your LLM chat with prompt *"Load this persona"*  
 4. Start the conversation and see the persona in action
 
-⚡Got it ? Let's go! [V5-Sample](.V5-Sample)
+⚡Got it ? Let's go! [V5-Sample](./V5-Sample)
 
 ---
 
