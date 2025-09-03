@@ -1,3 +1,6 @@
+<img width="600" height="600" alt="Gemini_Generated_Image_5itq705itq705itq" src="https://github.com/user-attachments/assets/ad7042e4-51ff-43f3-ae7d-46613913a03a" />
+
+
 # 🕶️ Welcome to the Back-Alley
 
 Yo, you found the hidden spot.  
