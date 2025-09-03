@@ -110,7 +110,7 @@ Even without external tools, by modularizing personas and leveraging features li
 
 ---
 ## 👨‍💻 Author’s Note  
-I’m not an engineer—just someone who enjoys exploring LLM conversations.  
+I’m not an engineer, simply a curious mind exploring conversations with LLMs.
 Frustrated by hallucinations, I focused on finding **text-only methods** to guide models—so that even without external tools, anyone can use AI more safely and reliably.  
 
 ---
