@@ -103,9 +103,10 @@ Each folder has detailed README files and all test cases.
 ---
 
 ## ⚠️ What You Should Know
-This framework is not a universal solution.  
-For comprehensive and accurate results, it is recommended to use external tools (e.g., RAG) alongside it.  
-The core purpose of this project is to maximize controllability and consistency through text-based design. Even without external assistance, modularized persona structures combined with user memory can provide greater stability compared to relying solely on a single prompt.
+This framework is not a universal solution, nor is it intended to replace full system design or external knowledge integration.  
+For reliable completeness and accuracy, it is still recommended to use external tools (such as RAG, databases, or APIs) alongside it.  
+The focus of this project is on text-level design to maximize controllability and consistency of the model.  
+Even without external tools, a modular persona structure combined with user memory integration can still provide greater stability than relying solely on a single prompt within a session.
 
 ---
 ## 👨‍💻 Author’s Note  
