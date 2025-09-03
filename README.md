@@ -103,7 +103,8 @@ Each folder has detailed README files and all test cases.
 ---
 
 ## ⚠️ What You Should Know
-This framework is not a universal solution. For comprehensive and accurate results, it is recommended to use external tools (e.g., RAG) alongside it.  
+This framework is not a universal solution.  
+For comprehensive and accurate results, it is recommended to use external tools (e.g., RAG) alongside it.  
 The core purpose of this project is to maximize controllability and consistency through text-based design. Even without external assistance, modularized persona structures combined with user memory can provide greater stability compared to relying solely on a single prompt.
 
 ---
