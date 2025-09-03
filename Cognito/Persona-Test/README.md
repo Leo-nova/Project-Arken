@@ -11,8 +11,8 @@ The goal is to evaluate whether the **Persona framework** improves clarity, comp
 
 ## 📂 Structure
 
-- **[En/](./En/)** → English reports  
-- **[zhTW/](./zhTW/)** → Traditional Chinese reports  
+- **[En](./En/)** → English reports  
+- **[zhTW](./zhTW/)** → Traditional Chinese reports  
 
 Each subfolder has its own README with details, evaluation criteria, and domain-specific results.
 
