@@ -91,7 +91,7 @@ So I built this, text-only, no fancy toys — so anyone can keep it safe and kee
 ---
 
 ## 📜 License  
-MIT, homie. Do whatever — just give props.  
+Apache 2.0, homie. Build, break, share — just carry the license.
 
 ---
 
