@@ -24,9 +24,8 @@
 ---
 ## 🤔 AI Persona？WHAT？  
 
-### Persona 是什麼？ 為什麼OpenAI、Google、Anthropic都重視？
-AI Persona 是為人工智慧系統設計的一套 **涵蓋性格、語氣、知識與行為模式** 的身份框架。  
-Persona 不只是風格詞句，而是一套包含行為規則、知識來源與對話記憶的綜合設定，能提升互動一致性。  
+### 你可能聽過 OpenAI、Google、Anthropic 在談『模型行為 (model behavior)』或『角色化互動』的研究。這些其實都圍繞著一個核心概念 —— AI Persona。
+一個 Persona 就像是 AI 的『人格設定』：包含語氣、知識範圍與互動風格。精心設計的 Persona 能讓 AI 對話更一致、更有親和力，也更貼近實際應用需求。
 
 三大重點：  
 - **知識庫**：提供內容的深度與準確性  
