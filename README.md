@@ -78,7 +78,8 @@ For beginners:
 
 For experienced developers or users:  
 - Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which balances functionality and stability.
-
+- Or just take the sample here [**Sample**](./Cognito/Persona-Sample)
+  
 💡 Tip: Stronger models produce richer Personas, but even local OSS models (e.g., GPT-OSS-20B) can generate stable, high-quality results.  
 
 ---
