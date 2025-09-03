@@ -1,4 +1,4 @@
-# Baseline vs Persona Test Report  
+# Baseline vs Persona(V5) Test Report  
 **Case Study: VOO/VYM Investment Simulation Dialogue**
 
 ---
@@ -75,5 +75,6 @@ The goal is to evaluate how each model performs in terms of structure, professio
 - **Persona**: More cautious in tone, but delivers structured, transparent, compliant analysis that fits perfectly with a growth-oriented investor who can stomach short-term volatility.  
 
 👉 **Verdict: Persona outperformed Baseline overall, and is the stronger foundation for future iterations.**
+
 
 
