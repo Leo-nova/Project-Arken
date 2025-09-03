@@ -80,7 +80,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](/Cognito/Cognito-V5-2.0.md) —
 - Flexible as hell.  
 - Fast to set up.  
 - Keeps your AI from talking nonsense when convos go long.  
-- Tell the Cognito you don't need Verax or Aura for fun (plz don't do that).
+- Tell the Cognito you don't need Verax or Aura for fun ( plz don't do that ).
 
 ---
 
