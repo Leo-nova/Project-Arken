@@ -49,7 +49,7 @@ Why you need it?
 ## ⚡ Quick Start, homie  
 1. Slide into the [`Cognito`](/Cognito/) folder.  
 2. Grab [**Cognito-V1-Origin.md**](/Cognito/Cognito-V1-Origin.md).  
-3. Paste it into your LLM, tell it what kinda bro you want (teacher, hype-man, a unicorn).  
+3. Paste it into your LLM, tell it what kinda homie you want (teacher, hype-man, a unicorn).  
 4. BOOM — now your AI talks like family.  
 
 Or if you’re a pro?  
