@@ -1,4 +1,4 @@
-<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/72d6db2e-6edf-4244-8bca-acecf6da1d85" />
+<img width="600" height="600" alt="unnamed" src="https://github.com/user-attachments/assets/ef212d52-a068-4f25-be8d-338121d0e014" />
 
 # Project Arken : Cognito Framework  
 **一個開源框架，協助你更輕鬆建立一致且可控的 AI Persona**  
@@ -11,7 +11,8 @@
 英文版本為對外翻譯，若有細節差異，請以中文版本為準。
 
 ---
-![sample](https://github.com/user-attachments/assets/15acd1cf-6280-492c-8c9a-2409018208b3)
+![sample](https://github.com/user-attachments/assets/0c0ac4e6-d9e1-4fcf-ab07-f8e0c36ff827)
+
 ## 🚀 專案簡介  
 大型語言模型（LLM）會生成內容，但「內容」不等於「可信」。  
 **Cognito Framework** 提供一個簡單、快速、可擴展的方式，幫助開發者與創作者打造更穩定、值得信賴的 AI 人格。  
