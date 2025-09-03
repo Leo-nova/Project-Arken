@@ -85,12 +85,13 @@ For 有經驗的開發者 or 使用者
 
 ## 📊 想看數據嗎？
 
-可選語言:
-
-- 👉 [English Reports (En)](../Cognito/Persona-Test/En/)  
-- 👉 [中文報告 (zhTW)](../Cognito/Persona-Test//zhTW/)  
+請至 Persona-Test 資料夾
+  
+- 👉 [Persona-Test](../Cognito/Persona-Test/)  
 
 **每個資料夾裡面都有完整的readme跟測試結論。**
+
+**所有測試皆使用GPT-4o**
 
 ---
 
