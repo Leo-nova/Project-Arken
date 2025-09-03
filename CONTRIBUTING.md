@@ -32,6 +32,7 @@ To keep things clean and consistent across the repo:
 Don’t take this repo too seriously.  
 Just like my early works, it’s meant to be a bit experimental, a bit casual, and always with a touch of humor.  
 
+---
 
 ## 🛠 Maintenance Note: .gitattributes
 
