@@ -1,6 +1,6 @@
 # Persona-Test  
 
-This folder contains the **English A/B test reports** comparing a Baseline model vs a Persona-guided model across multiple domains (e.g., finance, mental health).
+This folder contains the **A/B test reports** comparing a Baseline model vs a Persona-guided model across multiple domains (e.g., finance, mental health).
 
 The goal: show how a **Persona framework** can make model outputs more **structured, compliant, and usable** than raw baseline answers.
 
