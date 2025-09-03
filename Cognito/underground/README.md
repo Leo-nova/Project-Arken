@@ -22,7 +22,7 @@
 COME AND MEET MY COGNITO, BRO！🔥  
 
 Yo listen up — this ain’t your grandma’s prompt template.  
-This is **Cognito Framework**, the real deal when it comes to building AI personas that don’t trip, don’t hallucinate (well… not too much 👀), and always keep it 100.  
+This is **Cognito Framework**, the real deal when it comes to building AI personas that don’t trip, don’t hallucinate (well… not too much 👀), and always keep it 💯 
 
 ---
 
