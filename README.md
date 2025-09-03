@@ -84,6 +84,16 @@ But in practice, even a local GPT-OSS-20B runs quite well.
 
 ---
 
+## 📊 Want to see the test data?
+
+Choose your language:
+
+- 👉 [English Reports (En/)](./Cognito/Persona-Test/En/)  
+- 👉 [中文報告 (zhTW/)](./Cognito/Persona-Test//zhTW/)  
+
+Each folder has detailed README files and all test cases.
+
+---
 ## 👨‍💻 Author’s Note  
 I am not an engineer — just an ordinary person who loves conversing with LLMs.  
 Frustrated by hallucinations, then focused on how to control models using **pure text**, so that even without external tools, anyone can use AI safely and reliably.  
