@@ -1,5 +1,6 @@
-<img width="600" height="600" alt="Gemini_Generated_Image_hv7t25hv7t25hv7t" src="https://github.com/user-attachments/assets/2dc8d06a-33a3-4e1d-8e47-1b31b36bfb5c" />
+<img width="600" height="600" alt="Gemini_Generated_Image_hv7t25hv7t25hv7t" src="https://github.com/user-attachments/assets/8ae69b93-81b0-4e7a-869a-739f6f3eb37d" />
 
+  
 創作時期：2025年7月 — 目前
 
 # 📝 Early Handmade Works
