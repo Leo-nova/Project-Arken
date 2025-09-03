@@ -3,7 +3,7 @@
 # Project Arken : Cognito Framework  
 **An open-source framework to help you build consistent, controllable AI Personas with ease.**
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
 
 ---
 
@@ -116,7 +116,7 @@ Frustrated by hallucinations, I focused on finding **text-only methods** to guid
 ---
 
 ## 📜 License  
-This project is licensed under the [MIT License](./LICENSE).
+This project is licensed under the [Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
 
 ---
 
