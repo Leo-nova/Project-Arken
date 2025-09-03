@@ -110,4 +110,4 @@ For 有經驗的開發者 or 使用者
 ---
 
 ## 📜 授權  
-本專案採用 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)。  
+本專案採用 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](../LICENSE)。  
