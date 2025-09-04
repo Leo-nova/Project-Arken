@@ -4,7 +4,7 @@
 **An open-source framework to help you build consistent, controllable AI Personas with ease.**
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
-
+[![繁體中文](https://img.shields.io/badge/繁體中文入口-green)](./Cognito-zhTW/README.md)
 ---
 
 **The original source language of this project is Traditional Chinese**.  
