@@ -1,4 +1,4 @@
-# Baseline vs Persona 測試報告  
+# Baseline vs Persona(V5) 測試報告  
 **Case: 理財投資模擬（Q1–Q8）**
  
 ---
