@@ -10,7 +10,7 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 
 - [Financial advisor](./test-investment)
 - [Psychological counseling](./test-medical)  
-
+- [Legal advice](./test-law)  
 ---
 
 ## 🎯 How We Evaluate
