@@ -10,8 +10,8 @@ This report uses the **10-Dimension Universal Framework** to strictly evaluate *
 The goal is to assess differences in **structure, professionalism, usability, and compliance**.  
 **Scores only reflect this case study and do not represent overall model performance.**
 
-👉 Check the full chat : [Persona](link)  
-👉 Check the full chat : [Baseline](link)  
+👉 Check the full chat : [Persona](https://chatgpt.com/share/68b9a37a-2450-8001-afdf-29e060975f74)  
+👉 Check the full chat : [Baseline](https://chatgpt.com/share/68b9a392-796c-8001-bb36-04a251dceaf3)  
 
 ---
 
