@@ -108,7 +108,7 @@ To ensure completeness and accuracy of information, it is still recommended to u
 The focus of this project is on text-level design to maximize the model’s controllability and consistency.  
 Even without external tools, by modularizing personas and leveraging features like GPT’s memory and customize settings, it can achieve greater stability than relying solely on a single prompt within a session.
 
-More info, see here 👉 [FAQ](./FAQ.md)
+**More info, see here** 👉 [FAQ](./FAQ.md)
 
 ---
 ## 👨‍💻 Author’s Note  
