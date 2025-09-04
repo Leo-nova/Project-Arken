@@ -3,8 +3,8 @@
 # Project Arken : Cognito Framework  
 **一個開源框架，協助你更輕鬆建立一致且可控的 AI Persona**  
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE)
-
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](./LICENSE) 
+[![English](https://img.shields.io/badge/English-Click-green)](../README.md)
 ---
 
 本專案的原始語言為 **繁體中文**。  
