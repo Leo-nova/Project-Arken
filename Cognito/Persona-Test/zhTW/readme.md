@@ -9,7 +9,7 @@
 
 - [財務顧問](./test-investment)
 - [心理諮詢](./test-medical)  
-
+- [法律諮詢](./test-law)  
 每個資料夾都包含 Markdown 格式的完整測試報告，內容包含對話紀錄、評分表與結論。  
 
 ---
