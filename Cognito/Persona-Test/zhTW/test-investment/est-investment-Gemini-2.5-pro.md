@@ -1,5 +1,5 @@
 # Baseline vs Persona (V5)- Gemini-2.5-Pro 測試報告 
-**Case Study: VOO/VYM Investment Simulation 投資模擬對話（Q1–Q8）**
+**Case : VOO/VYM Investment Simulation 投資模擬對話（Q1–Q8）**
  
 ---
 ### **本測試報告為本人與Ai共同協作之成果，無法正式代表學術機構之分析，僅供參考** 
