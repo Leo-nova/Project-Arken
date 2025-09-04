@@ -98,7 +98,7 @@ Check the Persona-Test folder
   
 Each folder has detailed README files and all test cases.
   
-**All tests are based on GPT-4o.**  
+**All tests are based on GPT-4o、Gemini-2.5-Pro**  
 
 ---
 
