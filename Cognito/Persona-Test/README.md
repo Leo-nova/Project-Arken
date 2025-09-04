@@ -9,7 +9,7 @@ The goal is to evaluate whether the **Persona framework** improves clarity, comp
 
 ---
 
-## **All tests are based on GPT-4o.**  
+## **All tests are based on GPT-4o、Gemini-2.5-Pro**  
 **With no user memory, no customization, and in private browsing.**
 
 ---
