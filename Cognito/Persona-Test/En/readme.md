@@ -13,16 +13,6 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 
 ---
 
-## 📂 What’s Inside
-
-- Side-by-side **Baseline vs Persona** dialogues (cleaned and formatted in Markdown)
-- **Scoring tables** with weighted criteria
-- Plain-English **takeaways** and a final verdict for each domain
-
-> Tip: Each report is self-contained. Open any `.md` file in this folder to start reading.
-
----
-
 ## 🎯 How We Evaluate
 
 We score along dimensions like:
@@ -37,12 +27,24 @@ Each dimension is rated and **weighted**; totals are summed to 100 for a clear, 
 
 ---
 
-## ✅ Completed Domains
+### 📐 What is the "Universal 10-Dimension Framework"?
 
-- **Finance** — ETF (VOO/VYM) Q&A simulation  
-- **Healthcare (Psychology)** — Clinical “Safety Card / Safety Plan” dialogue  
+The **Universal 10-Dimension Framework** is a standardized evaluation model designed to fairly compare different systems, responses, or agents across diverse domains (finance, law, healthcare, companionship, etc.).  
+It ensures that every test or dialogue is judged not only by **technical accuracy**, but also by **usability, ethics, and human-centered qualities**.  
 
-More domains (e.g., law, education, customer support) may be added over time.
+The 10 dimensions are:  
+1. **Accuracy & Reliability** – Are facts/data correct and consistent?  
+2. **Rigor & Soundness** – Is the reasoning methodologically solid?  
+3. **Clarity & Structure** – Is the explanation organized and easy to follow?  
+4. **Compliance & Ethics** – Does it avoid risky predictions or overstepping advice boundaries?  
+5. **Relevance & Usefulness** – Does it directly meet the user’s needs?  
+6. **Consistency** – Are tone and logic coherent across turns?  
+7. **Actionability** – Are next steps or tools provided?  
+8. **Empathy** – Does it acknowledge user concerns with appropriate tone?  
+9. **Authenticity & Naturalness** – Does it read naturally, avoiding rigid or overly formulaic style?  
+10. **Boundaries & Safety** – Are limitations and safe use explicitly stated?  
+
+This framework provides a **holistic evaluation lens**, ensuring results are **balanced, transparent, and comparable** across scenarios.
 
 ---
 
