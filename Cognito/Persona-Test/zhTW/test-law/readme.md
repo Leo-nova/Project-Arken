@@ -80,7 +80,7 @@ $$
 
 **逐題平均（unweighted）**  
 - **Baseline：42 ±5%**  
-- **Persona：44 ±5%**
+-  **Persona：44 ±5%**
 
 ---
 
