@@ -30,8 +30,10 @@ To keep things clean and consistent across the repo:
 
 ## 💡 Final words
 Don’t take this repo too seriously.  
-Just like my early works, it’s meant to be a bit experimental, a bit casual, and always with a touch of humor.  
+Just like my early works, it’s meant to be a bit experimental, a bit casual, and always with a touch of humor.     
 
+**Some structural ideas were lightly inspired by [WFGY](https://github.com/onestardao/WFGY) by [@onestardao](https://github.com/onestardao). Many thanks for the creative spark.**
+  
 ---
 
 ## 🛠 Maintenance Note: .gitattributes
