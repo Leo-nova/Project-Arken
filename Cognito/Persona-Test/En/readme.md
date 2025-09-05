@@ -13,17 +13,11 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 - [Legal advice](./test-law)  
 ---
 
-## 🎯 How We Evaluate
+## 🎯 Evaluation Goals
 
-We score along dimensions like:
-
-- Structure & clarity  
-- Evidence / calculation rigor  
-- Safety & compliance  
-- Fitness to user needs  
-- Consistency & actionability  
-
-Each dimension is rated and **weighted**; totals are summed to 100 for a clear, reproducible comparison.
+- Compare performance differences between Persona and baseline prompting  
+- Assess strengths and weaknesses in clarity, professionalism, compliance, and usability  
+- Use the standardized 10-dimension framework to provide a reproducible evaluation method (with weighted scoring formula)
 
 ---
 
