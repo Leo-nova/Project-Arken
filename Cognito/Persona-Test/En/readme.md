@@ -17,7 +17,7 @@ The goal: show how a **Persona framework** can make model outputs more **structu
 
 - Compare performance differences between Persona and baseline prompting  
 - Assess strengths and weaknesses in clarity, professionalism, compliance, and usability  
-- Use the standardized 10-dimension framework to provide a reproducible evaluation method (with weighted scoring formula)
+- Use the universal 10-dimension framework to provide a reproducible evaluation method (with weighted scoring formula)
 
 ---
 
