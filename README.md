@@ -30,16 +30,18 @@ Large language models (LLMs) generate content—but **content does not equal rel
 ## ⚡ Quick Start  
 
 For beginners:  
-1. Open the [`Cognito`](./Cognito/) folder  
-2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content.  
-3. Copy and paste, then generate the Persona you want (e.g., teacher, tool, chat role).
-4. Experience Personas powered by Cognito. 
+
+1. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content.  
+2. Copy and paste, then generate the Persona you want (e.g., teacher, tool, chat role).
+3. Experience Personas powered by Cognito. 
 
 For experienced developers or users:  
 - Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which balances functionality and stability.
 - Or just take the sample here [**`Sample`**](./Cognito/Persona-Sample)
-  
+ 
 💡 Tip: Stronger models produce richer Personas, but even local models (e.g., GPT-OSS-20B) can generate stable, high-quality results.  
+
+- 👉 [`Cognito`](./Cognito/) folder to check other verison. 
 
 ---
 
