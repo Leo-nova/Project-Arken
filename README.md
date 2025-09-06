@@ -23,7 +23,23 @@ Large language models (LLMs) generate content—but **content does not equal rel
 **Core ideas:** 
 - Lower the entry barrier of prompt engineering with templates, modules, and examples—making Persona design more accessible to both developers and creators.  
 - Use structured Personas and modular design to improve consistency and reduce hallucinations.  
-- Quickly deploy Personas tailored to different scenarios and applications.  
+- Quickly deploy Personas tailored to different scenarios and applications.
+
+---
+
+## ⚡ Quick Start  
+
+For beginners:  
+1. Open the [`Cognito`](./Cognito/) folder  
+2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content.  
+3. Copy and paste, then generate the Persona you want (e.g., teacher, tool, chat role). (e.g., teachers, tools, chat personas)  
+4. Experience Personas powered by Cognito. 
+
+For experienced developers or users:  
+- Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which balances functionality and stability.
+- Or just take the sample here [**`Sample`**](./Cognito/Persona-Sample)
+  
+💡 Tip: Stronger models produce richer Personas, but even local OSS models (e.g., GPT-OSS-20B) can generate stable, high-quality results.  
 
 ---
 
@@ -53,7 +69,6 @@ Thoughtfully crafted Personas improve consistency, predictability, and overall u
 As AI becomes critical infrastructure, Personas play a central role in enabling natural, human-like interaction.  
 Examples: customer service chatbots, corporate assistants, or virtual avatars for YouTubers.  
 
-
 ---
 
 ## 🧩 Core Product Lines  
@@ -65,22 +80,6 @@ Examples: customer service chatbots, corporate assistants, or virtual avatars fo
 |✨**Mira** | Creative & Interactive Framework | Focused on emotional resonance and personalized interaction (planned release) |  
 
 ***Future updates will continue to refine and release improved versions of Cognito.***
-
----
-
-## ⚡ Quick Start  
-
-For beginners:  
-1. Open the [`Cognito`](./Cognito/) folder  
-2. Start with [**Cognito-V1-Origin.md**](./Cognito/Cognito-V1-Origin.md) and copy the content.  
-3. Copy the content into your LLM interface and test with roles (e.g., teachers, tools, chat personas)  
-4. Experience Personas powered by Cognito. 
-
-For experienced developers or users:  
-- Jump directly to [**Cognito-V5-2.0.md**](./Cognito/Cognito-V5-2.0.md), which balances functionality and stability.
-- Or just take the sample here [**`Sample`**](./Cognito/Persona-Sample)
-  
-💡 Tip: Stronger models produce richer Personas, but even local OSS models (e.g., GPT-OSS-20B) can generate stable, high-quality results.  
 
 ---
 
