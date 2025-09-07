@@ -7,14 +7,8 @@
 [![繁體中文](https://img.shields.io/badge/繁體中文-入口-green)](./Cognito-zhTW/README.md)
 ---
 
-**The original source language of this project is Traditional Chinese**.  
-**The English version is a translation for broader accessibility.   
-If any detail differs, the Chinese version takes precedence.**
-
----
-
-![sample](https://github.com/user-attachments/assets/e90540a5-db01-49ff-8197-efc3ca157288)
-
+![sample](https://github.com/user-attachments/assets/e90540a5-db01-49ff-8197-efc3ca157288)    
+***Say what you need → Confirm → Generate → Done***
 
 ## 🚀 Introduction  
 Large language models (LLMs) generate content—but **content does not equal reliability**.  
