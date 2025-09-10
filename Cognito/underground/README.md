@@ -71,6 +71,7 @@ Skip the warm-up and use [**Cognito-V5-2.0.md**](/Cognito/Cognito-V5-2.0.md) —
 | [Cognito-V4-Aura-Lite.md](/Cognito/Cognito-V4-Aura-Lite.md) | **V4-Lite** | **Slim Maze**: Just tone, logic, fact checks. Fast but flimsy. | Low-risk play, quick test vibes. |
 | [Cognito-V5-1.0.md](/Cognito/Cognito-V5-1.0.md) | **V5-1.0** | **Architect’s Draft**: Dropped the maze. Back to reality. Jurisdiction checks, red-team hustle. Compliance on top. | For experimenting the full workflow. |
 | [Cognito-V5-2.0.md](/Cognito/Cognito-V5-2.0.md) | **V5-2.0** | **Street-Ready Release** ✅: Stronger red-team things, formats on lock (Micro, Standard, Deep-Dive). Clean, solid, real talk only. | The go-to. Stable, ready for action. |
+| [Cognito-V6-Verax.md](/Cognito/Cognito-V6-Verax.md) | **V6-Verax** | **Double Trouble, No Bubble**: Mini AI Cabinet, baby. Two voices, one screen. Positive brings the plan, Negative brings the punch. Verax keeps ‘em real. Best of both brains. | If you're tryna hear both your angel & your devil before launching a plan. Strategic convos only, homie. | 
 
 > \[ COGNITO • KEEP IT REAL • STAY HONEST • NO CAP ]
 
