@@ -24,7 +24,8 @@ To help you quickly locate the version you need, please refer to the **Version E
 | [Cognito-V4-Aura-Lite.md](./Cognito-V4-Aura-Lite.md) | **V4-Lite** | **Lightweight Labyrinth**: Stripped down to the bare minimum (tone, logic, fact checks). Sacrifices depth for speed, acting as a quick testbed rather than a safeguard. | **For low-risk experiments**: Optional tool for quick trials. |
 | [Cognito-V5-1.0.md](./Cognito-V5-1.0.md) | **V5-1.0** | **Architect’s Draft**: Abandoned the “illusion labyrinth” of V4. Introduced engineering workflows (jurisdiction scan, PACT analysis, design proposal, red-team checks). First appearance of the **compliance priority rule**. | **For experimentation**: Best for exploring full design workflows. |
 | [Cognito-V5-2.0.md](./Cognito-V5-2.0.md) | **V5-2.0** | **✅ Stable & Deployable**: Refined from 1.0 with stronger red-team protocols (AML/KYC, fraud, internal reasoning traps). Clearly defined output formats (Micro / Standard / Deep-Dive). The simplest and most reliable version to date. | **For deployment**: The recommended release for production-like use. |
-
+| [Cognito-V6-Verax.md](./Cognito-V6-Verax.md) | **V6-Verax**| **Dual-Persona with Lite Hallucination Guard**: A/B (Positive/Negative) co-reasoning that challenges assumptions, surfaces risks & alternatives, and flags uncertainty via Verax. Keeps standardized JSON drafts, router rule, and failure-mode handling. | **For multi-perspective thinking**: Recommended when users need balanced exploration with quick, low-overhead self-checks. |
+ 
 ---
 
 ## 📖 Recommended Paths  
